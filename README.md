@@ -214,11 +214,11 @@ This project helped me understand how qualitative and unstructured data can be o
 
 | Project | Type | Period | Main Skills | Link |
 |---|---|---|---|---|
-| Seoul Subway Accident Factor Analysis | Bootcamp Team Project | 2026.04 | EDA, Tableau, Team Leadership, Presentation | To be updated |
-| ToxMod AI Risk Assessment | Academic Project | 2025.09 – 2025.12 | Ethical AI, Risk Assessment, AI Governance | To be updated |
-| Steam Game Attribute Prediction | Academic Project | 2025.03 – 2025.06 | Orange3, EDA, Classification | To be updated |
+| Seoul Subway Accident Factor Analysis | Bootcamp Team Project | 2026.04 | EDA, Tableau, Team Leadership, Presentation | - |
+| ToxMod AI Risk Assessment | Academic Project | 2025.09 – 2025.12 | Ethical AI, Risk Assessment, AI Governance | - |
+| Steam Game Attribute Prediction | Academic Project | 2025.03 – 2025.06 | Orange3, EDA, Classification | - |
 | Pothole Risk Factor Analysis | Research / Capstone Project | 2024.09 – 2025.02 | Python, ML, Feature Engineering, Spatial Data | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
-| Watcha User Behavior Analysis | Academic Project | 2023.03 – 2023.06 | Survey Analysis, Tableau, Marketing Analytics | To be updated |
+| Watcha User Behavior Analysis | Academic Project | 2023.03 – 2023.06 | Survey Analysis, Tableau, Marketing Analytics | - |
 | Voice Phishing Pattern Analysis | Academic Project | 2022.09 – 2022.12 | Data Collection, Preprocessing, Service Design | [Repository](https://github.com/lucy539090/voicefishing_analysis) |
 
 ---
