@@ -13,7 +13,7 @@ Rather than simply listing projects, this portfolio documents how I approach dat
 |---|---|
 | 🚇 Public Safety & Urban Analytics | Seoul Subway Accident Factor Analysis, Pothole Risk Factor Analysis |
 | 🤖 Machine Learning & Predictive Modeling | Pothole Risk Factor Analysis, Steam Game Attribute Prediction |
-| 📊 Product & User Behavior Analytics | Watcha User Behavior Analysis, E-commerce Funnel Analysis |
+| 📊 Product & User Behavior Analytics | Watcha User Behavior Analysis |
 | 🛡 Risk, Ethics & Social Data Analysis | ToxMod AI Risk Assessment, Voice Phishing Pattern Analysis |
 
 ---
