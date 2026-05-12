@@ -7,7 +7,43 @@ Rather than simply listing projects, this portfolio documents how I approach dat
 
 ---
 
-## 🗂 Portfolio Overview
+## 👩‍💻 About Me
+
+I am interested in data analysis, user behavior analysis, machine learning, and data-driven problem solving.
+
+My projects cover various domains such as public safety, urban analytics, product and user behavior, AI ethics, social risk analysis, and predictive modeling.  
+Through these projects, I have practiced not only analyzing data, but also defining problems, building analysis workflows, interpreting results, and communicating insights through reports, dashboards, and presentations.
+
+---
+
+## 📌 Project Summary
+
+| Project | Type | Period | Main Focus | Main Skills | Link |
+|---|---|---|---|---|---|
+| Seoul Subway Accident Factor Analysis | Bootcamp Team Project | 2026.04 | Subway accident factors and safety insights | EDA, Tableau, Team Leadership, Presentation | - |
+| ToxMod AI Risk Assessment | Academic Project | 2025.09 – 2025.12 | Ethical impact of AI voice moderation | AI Ethics, Risk Analysis, Impact Assessment | - |
+| Steam Game Attribute Prediction | Academic Project | 2025.03 – 2025.06 | Prediction of top downloaded Steam games | Orange3, Decision Tree, Classification, Model Evaluation | - |
+| Pothole Risk Factor Analysis | Research / Capstone Project | 2024.09 – 2025.02 | Key factors of pothole occurrence | Python, Machine Learning, Feature Engineering, Spatial Data | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
+| Watcha User Behavior Analysis | Academic Project | 2023.03 – 2023.06 | OTT user behavior and marketing strategy | Survey Analysis, User Behavior Analysis, Marketing Strategy | - |
+| Voice Phishing Pattern Analysis | Academic Project | 2022.09 – 2022.12 | Text-based voice phishing pattern analysis | Crawling, Text Preprocessing, NLP, Word Cloud, Sentiment Analysis | [Repository](https://github.com/lucy539090/voicefishing_analysis) |
+
+---
+
+## 🛠 Skills Demonstrated
+
+| Area | Skills | Related Projects |
+|---|---|---|
+| Data Analysis | Data preprocessing, EDA, pattern identification, public data analysis, survey analysis | Seoul Subway Accident Factor Analysis, Watcha User Behavior Analysis, Pothole Risk Factor Analysis |
+| Product & Business Analytics | User perception analysis, marketing strategy development, service improvement proposal, business problem definition | Watcha User Behavior Analysis |
+| Machine Learning | Classification modeling, Decision Tree, tree-based models, model comparison, feature importance interpretation | Steam Game Attribute Prediction, Pothole Risk Factor Analysis |
+| Text & NLP Analysis | Web crawling, Korean text preprocessing, stopword removal, noun extraction, word cloud visualization, sentiment analysis | Voice Phishing Pattern Analysis |
+| AI Ethics & Risk Analysis | AI impact assessment, privacy analysis, fairness analysis, transparency evaluation, stakeholder analysis | ToxMod AI Risk Assessment |
+| Visualization & Communication | Tableau visualization, word cloud visualization, data storytelling, report writing, final presentation, Q&A preparation | Seoul Subway Accident Factor Analysis, Voice Phishing Pattern Analysis |
+| Collaboration | Team coordination, role distribution, project flow organization, documentation, presentation preparation | Seoul Subway Accident Factor Analysis, Academic Team Projects |
+
+---
+
+## 🗂 Portfolio Categories
 
 | Category | Projects |
 |---|---|
@@ -354,85 +390,6 @@ For the YouTube data, the project included:
 This project helped me understand how unstructured text data can be collected, cleaned, and transformed into analyzable data.
 
 Through the process of crawling, preprocessing, keyword extraction, word cloud visualization, and sentiment analysis, I learned the importance of data cleaning before interpretation, especially when working with noisy real-world text data.
-
----
-
-# 📌 Project Summary
-
-| Project | Type | Period | Main Skills | Link |
-|---|---|---|---|---|
-| Seoul Subway Accident Factor Analysis | Bootcamp Team Project | 2026.04 | EDA, Tableau, Team Leadership, Presentation | - |
-| ToxMod AI Risk Assessment | Academic Project | 2025.09 – 2025.12 | Ethical AI, AI Impact Assessment, Risk Analysis | - |
-| Steam Game Attribute Prediction | Academic Project | 2025.03 – 2025.06 | Orange3, Classification, Decision Tree, Model Evaluation | - |
-| Pothole Risk Factor Analysis | Research / Capstone Project | 2024.09 – 2025.02 | Python, Machine Learning, Feature Engineering, Spatial Data | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
-| Watcha User Behavior Analysis | Academic Project | 2023.03 – 2023.06 | Survey Analysis, User Behavior Analysis, Marketing Strategy | - |
-| Voice Phishing Pattern Analysis | Academic Project | 2022.09 – 2022.12 | Crawling, Text Preprocessing, NLP, Word Cloud, Sentiment Analysis | [Repository](https://github.com/lucy539090/voicefishing_analysis) |
-
----
-
-# 🛠 Skills Demonstrated
-
-## 📊 Data Analysis
-
-- Data preprocessing
-- Exploratory data analysis
-- Pattern identification
-- Survey analysis
-- User behavior analysis
-- Public data analysis
-
-## 📈 Product & Business Analytics
-
-- User perception analysis
-- Marketing strategy development
-- Service improvement proposal
-- Dashboard-based insight communication
-- Business problem definition
-
-## 🤖 Machine Learning
-
-- Classification modeling
-- Decision Tree modeling
-- Tree-based models
-- Feature engineering
-- Model comparison
-- Feature importance interpretation
-
-## 🧠 Text & NLP Analysis
-
-- Web crawling
-- Korean text preprocessing
-- Stopword removal
-- Noun extraction
-- Word cloud visualization
-- Sentiment analysis
-- Keyword-based analysis
-
-## 🛡 AI Ethics & Risk Analysis
-
-- AI impact assessment
-- Privacy and data governance analysis
-- Fairness and bias risk analysis
-- Transparency evaluation
-- Stakeholder analysis
-- AI lifecycle-based evaluation
-
-## 🎨 Visualization & Communication
-
-- Tableau visualization
-- Word cloud visualization
-- Data storytelling
-- Report writing
-- Final presentation
-- Q&A preparation
-
-## 🤝 Collaboration
-
-- Team coordination
-- Role distribution
-- Project flow organization
-- Documentation
-- Presentation preparation
 
 ---
 
