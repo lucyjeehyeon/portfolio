@@ -1,7 +1,3 @@
-좋아. 아래 그대로 `README.md`에 붙여넣으면 돼.
-수정 기준은 업로드한 기존 마크다운, ToxMod 자료, Steam 워드파일, 포트홀 논문, 왓챠 발표자료, 보이스피싱 발표자료와 GitHub README를 기준으로 맞췄어.      ([GitHub][1])
-
-```markdown
 # 📂 Data Analysis Portfolio
 
 Hi, I'm Jeehyeon Lee.  
@@ -453,7 +449,3 @@ Additional repositories and detailed project README files will be updated as the
 - GitHub: [github.com/lucy539090](https://github.com/lucy539090)
 - Blog: [lucy2652.tistory.com](https://lucy2652.tistory.com/)
 - Email: lucy567888@gmail.com
-```
-
-[1]: https://github.com/lucy539090/voicefishing_analysis "GitHub - lucy539090/voicefishing_analysis · GitHub"
-
