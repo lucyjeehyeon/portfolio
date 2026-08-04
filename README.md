@@ -32,7 +32,7 @@ Through these projects, I have practiced not only analyzing data, but also defin
 
 | Area | Skills | Related Projects |
 |---|---|---|
-| Data Analysis | Data preprocessing, EDA, pattern identification, public data analysis, survey analysis | Seoul Subway Accident Factor Analysis, Watcha User Behavior Analysis, Pothole Risk Factor Analysis |
+| Data Analysis | Data preprocessing, EDA, pattern identification, public data analysis, survey analysis | Watcha User Behavior Analysis, Pothole Risk Factor Analysis |
 | Product & Business Analytics | User perception analysis, marketing strategy development, service improvement proposal, business problem definition | Watcha User Behavior Analysis |
 | Machine Learning | Classification modeling, Decision Tree, tree-based models, model comparison, feature importance interpretation | Steam Game Attribute Prediction, Pothole Risk Factor Analysis |
 | Text & NLP Analysis | Web crawling, Korean text preprocessing, stopword removal, noun extraction, word cloud visualization, sentiment analysis | Voice Phishing Pattern Analysis |
