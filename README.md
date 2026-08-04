@@ -37,8 +37,8 @@ Through these projects, I have practiced not only analyzing data, but also defin
 | Machine Learning | Classification modeling, Decision Tree, tree-based models, model comparison, feature importance interpretation | Steam Game Attribute Prediction, Pothole Risk Factor Analysis |
 | Text & NLP Analysis | Web crawling, Korean text preprocessing, stopword removal, noun extraction, word cloud visualization, sentiment analysis | Voice Phishing Pattern Analysis |
 | AI Ethics & Risk Analysis | AI impact assessment, privacy analysis, fairness analysis, transparency evaluation, stakeholder analysis | ToxMod AI Risk Assessment |
-| Visualization & Communication | Tableau visualization, word cloud visualization, data storytelling, report writing, final presentation, Q&A preparation | Seoul Subway Accident Factor Analysis, Voice Phishing Pattern Analysis |
-| Collaboration | Team coordination, role distribution, project flow organization, documentation, presentation preparation | Seoul Subway Accident Factor Analysis, Academic Team Projects |
+| Visualization & Communication | Tableau visualization, word cloud visualization, data storytelling, report writing, final presentation, Q&A preparation | Voice Phishing Pattern Analysis |
+| Collaboration | Team coordination, role distribution, project flow organization, documentation, presentation preparation | Academic Team Projects |
 
 ---
 
