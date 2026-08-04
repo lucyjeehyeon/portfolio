@@ -20,7 +20,6 @@ Through these projects, I have practiced not only analyzing data, but also defin
 
 | Project | Type | Period | Main Focus | Main Skills | Link |
 |---|---|---|---|---|---|
-| Seoul Subway Accident Factor Analysis | Bootcamp Team Project | 2026.04 | Subway accident factors and safety insights | EDA, Tableau, Team Leadership, Presentation | - |
 | ToxMod AI Risk Assessment | Academic Project | 2025.09 – 2025.12 | Ethical impact of AI voice moderation | AI Ethics, Risk Analysis, Impact Assessment | - |
 | Steam Game Attribute Prediction | Academic Project | 2025.03 – 2025.06 | Prediction of top downloaded Steam games | Orange3, Decision Tree, Classification, Model Evaluation | - |
 | Pothole Risk Factor Analysis | Research / Capstone Project | 2024.09 – 2025.02 | Key factors of pothole occurrence | Python, Machine Learning, Feature Engineering, Spatial Data | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
@@ -56,45 +55,7 @@ Through these projects, I have practiced not only analyzing data, but also defin
 
 # 🌟 Featured Projects
 
-## 1. Seoul Subway Accident Factor Analysis
-
-**Type:** Bootcamp Team Project  
-**Period:** 2026.04  
-**Role:** Project Leader, EDA, Tableau Visualization, Final Presentation  
-**Status:** Repository to be updated
-
-### 📌 Overview
-
-This project analyzed Seoul subway accident data to identify factors related to accident occurrence.
-
-Rather than simply finding stations or subway lines with the highest number of accidents, the project focused on understanding the conditions under which different accident types occurred more frequently.
-
-### 🔍 Analysis Focus
-
-- Accident type classification
-- Station age and infrastructure conditions
-- Passenger volume
-- Platform and facility structure
-- Weather conditions
-- Time-based accident patterns
-
-### 🙋‍♀️ My Contribution
-
-- Served as project leader and coordinated the overall team workflow
-- Managed role distribution and team communication
-- Structured the analysis flow from EDA to final insight development
-- Focused on escalator/elevator-related accident analysis
-- Compared multiple environmental factors such as station age, passenger volume, facility count, weather, and time of day
-- Delivered the final presentation and prepared for Q&A
-
-### 💡 Actionable Insights & Business Impact
-- **Prioritization:** Proposed a new maintenance priority score based on 'Passenger Volume per Facility' rather than just station age.
-- **Hypothesis for Optimization:** If we implement real-time congestion alerts, we predict a 15% reduction in escalator-related accidents during peak hours.
-- **Guardrail Metric:** While reducing accidents, we must monitor 'Commuter Flow Speed' to ensure safety measures don't cause station congestion.
-
----
-
-## 2. ToxMod AI Risk Assessment
+## 1. ToxMod AI Risk Assessment
 
 **Type:** Academic Project  
 **Period:** 2025.09 – 2025.12  
@@ -140,7 +101,7 @@ Especially in real-time moderation systems, privacy, fairness, transparency, acc
 
 ---
 
-## 3. Steam Game Attribute Prediction
+## 2. Steam Game Attribute Prediction
 
 **Type:** Academic Project  
 **Period:** 2025.03 – 2025.06  
@@ -192,7 +153,7 @@ It also helped me practice defining a target variable, designing a classificatio
 
 ---
 
-## 4. Pothole Risk Factor Analysis
+## 3. Pothole Risk Factor Analysis
 
 **Type:** Research / Capstone Project  
 **Period:** 2024.09 – 2025.02  
@@ -260,7 +221,7 @@ Through this project, I practiced integrating heterogeneous public datasets, bui
 
 ---
 
-## 5. Watcha User Behavior Analysis
+## 4. Watcha User Behavior Analysis
 
 **Type:** Academic Project  
 **Period:** 2023.03 – 2023.06  
@@ -314,7 +275,7 @@ I learned that product analysis should consider not only what users know about a
 
 ---
 
-## 6. Voice Phishing Pattern Analysis
+## 5. Voice Phishing Pattern Analysis
 
 **Type:** Academic Project  
 **Period:** 2022.09 – 2022.12  
@@ -403,5 +364,4 @@ Additional repositories and detailed project README files will be updated as the
 # 📫 Contact
 
 - GitHub: [github.com/lucy539090](https://github.com/lucy539090)
-- Blog: [lucy2652.tistory.com](https://lucy2652.tistory.com/)
 - Email: lucy567888@gmail.com
