@@ -1,9 +1,3 @@
-<div align="right">
-
-🇰🇷 **한국어** · 🇺🇸 English version coming soon
-
-</div>
-
 # 📂 Data Analysis Portfolio
 
 안녕하세요, **데이터 분석가를 준비하고 있는 이지현**입니다.
@@ -43,16 +37,16 @@
 
 ## 📌 Project Summary
 
-| 프로젝트명 | 기간 | 메인 포커싱 분석 | 메인 스킬 | 레포 링크 |
-|---|---:|---|---|---|
-| **공유오피스 무료체험 전환 체계 진단** | 2026.07 | 무료체험 퍼널, 반복 방문 전환 신호, 지점별 병목 진단 | Python, Funnel Analysis, Statistical Testing, ML, Tableau | `Repository URL 추가 예정` |
-| **구독형 교육 서비스 전환·리텐션 분석** | 2026.06 | 초기 학습 퍼널, 활성화 기준, 첫 결제 전환, 유저 세그먼트 | Python, User Segmentation, Funnel Analysis, A/B Test Design | `Repository URL 추가 예정` |
-| **서울시 지하철 사고 원인 분석 및 안전 개선** | 2026.04 | 사고 유형별 시간·공간·구조적 위험 요인, 승강설비 사고 분석 | Python, EDA, Public Data, Correlation Analysis, Tableau | `Repository URL 추가 예정` |
-| **ToxMod AI 윤리 영향평가** | 2025.09–12 | 음성 중재 AI의 프라이버시·공정성·투명성 평가 | AI Ethics, Risk Analysis, Impact Assessment, Policy Review | - |
-| **Steam 게임 속성 기반 인기 게임 예측** | 2025.03–06 | 게임 속성을 활용한 상위 다운로드 게임 분류 | Orange3, Decision Tree, Classification, Model Evaluation | - |
-| **포트홀 발생 주요 요인 분석** | 2024.09–2025.02 | 공간·기상·교통 데이터 통합 및 발생 요인 중요도 분석 | Python, Spatial Data, Feature Engineering, LightGBM | `Repository URL 추가 예정` |
-| **OTT 플랫폼 왓챠 소비층 확보 방안** | 2023.03–06 | 자체 설문 기반 사용자 인식·이용 요인 및 마케팅 방향 | Survey Analysis, User Behavior, Statistical Analysis, Strategy | - |
-| **보이스피싱 패턴 분석** | 2022.09–12<br>후속 고도화 | 사례 스크립트·유튜브 데이터 수집 및 텍스트 패턴 분석 | Crawling, Text Preprocessing, KoNLPy, WordCloud, Sentiment | [Repository](https://github.com/lucyjeehyeon/voicefishing_analysis) |
+| 프로젝트명 | 기간 | 내용 | 메인 스킬 | Repository |
+|---|---|---|---|---|
+| **공유오피스 무료체험 전환 체계 진단** | 2026.07 | 무료체험 퍼널, 반복 방문 전환 신호, 지점별 병목 진단 | Python, Funnel Analysis, Statistical Testing, ML, Tableau | [Repository](https://github.com/lucyjeehyeon/shared-office-trial-conversion-analysis) |
+| **구독형 교육 서비스 전환·리텐션 분석** | 2026.05-06 | 초기 학습 퍼널, 활성화 기준, 첫 결제 전환, 유저 세그먼트 | Python, User Segmentation, Funnel Analysis, A/B Test Design | `Repository URL 추가 예정` |
+| **서울시 지하철 사고 원인 분석 및 안전 개선** | 2026.04 | 사고 유형별 시간·공간·구조적 위험 요인, 승강설비 사고 분석 | Python, EDA, Public Data, Correlation Analysis, Tableau | [Repository](https://github.com/lucyjeehyeon/seoul-subway-safety-analysis) |
+| **ToxMod AI 윤리 영향평가** | 2025.09-12 | 음성 중재 AI의 프라이버시·공정성·투명성 평가 | AI Ethics, Risk Analysis, Impact Assessment, Policy Review | - |
+| **Steam 게임 속성 기반 인기 게임 예측** | 2025.03-06 | 게임 속성을 활용한 상위 다운로드 게임 분류 | Orange3, Decision Tree, Classification, Model Evaluation | - |
+| **포트홀 발생 주요 요인 분석** | 2024.09-2025.02 | 공간·기상·교통 데이터 통합 및 발생 요인 중요도 분석 | Python, Spatial Data, Feature Engineering, LightGBM | [Repository](https://github.com/lucyjeehyeon/pothole-risk-factor-analysis) |
+| **OTT 플랫폼 왓챠 소비층 확보 방안** | 2023.03-06 | 자체 설문 기반 사용자 인식·이용 요인 및 마케팅 방향 | Survey Analysis, User Behavior, Statistical Analysis, Strategy | - |
+| **보이스피싱 패턴 분석** | 2022.09-12, 2023.09-12 | 사례 스크립트·유튜브 데이터 수집 및 텍스트 패턴 분석 | Crawling, Text Preprocessing, KoNLPy, WordCloud, Sentiment | [Repository](https://github.com/lucyjeehyeon/voicefishing_analysis) |
 
 ---
 
@@ -92,11 +86,10 @@
 ## 1. 공유오피스 무료체험 전환 체계 진단
 
 
-**프로젝트 타입:** 부트캠 팀 프로젝트  
+**프로젝트 타입:** 부트캠프 팀 프로젝트  
 **기간:** 2026.07  
-**역할:** 팀장, 외부 데이터 병합·전처리, 랜드마크 모델링, 다지점·지점별 분석, 마스터 테이블·코드 통합, 발표 Q&A  
-**링크:** `Repository URL 추가 예정` <!-- TODO: 실제 레포 URL로 교체 -->  
-**상태:** 포트폴리오 문서화 완료 / 별도 레포 정리 예정
+**역할:** 팀장, 외부 데이터 병합·전처리, 랜드마크 모델링, 다지점·지점별 분석, 마스터 테이블·코드 통합, Q&A  
+**링크:** [Repository](https://github.com/lucyjeehyeon/shared-office-trial-conversion-analysis)
 
 > **핵심 결과:** 무료체험 결제 전환과 가장 일관되게 연결된 행동은 한 번 오래 머무는 것이 아니라, 서로 다른 날짜까지 이용이 이어지는 **반복 방문**이었습니다.
 
@@ -121,7 +114,7 @@
 
 ### 주요 인사이트
 
-- 결제 전환율은 변화점 이전 **39.6%**에서 이후 **25.8%**로 하락
+- 결제 전환율은 변화점 이전 39.6%에서 이후 25.8%로 하락
 - 한 번 길게 이용한 집단보다 짧더라도 여러 날짜 방문한 집단의 결제율이 **22.02%p 높게 관찰**
 - 다지점 이용의 원본 결제율 우위는 방문일수·행동량을 보정하면 크게 축소
 - D1 행동이 추가될 때부터 전환 신호가 상대적으로 강화되어 **두 번째 날짜 방문 전후**가 실무적 개입 시점으로 해석됨
@@ -156,11 +149,10 @@
 ## 2. 구독형 교육 서비스 전환·리텐션 분석
 
 
-**프로젝트 타입:** 부트캠 팀 프로젝트  
-**기간:** 2026.06  
+**프로젝트 타입:** 부트캠프 팀 프로젝트  
+**기간:** 2026.05-06
 **역할:** 초기 학습 퍼널·활성화 기준·레슨 완료 임계점·콘텐츠 개선 후보·유저 세그먼트 분석, PPT 공동 제작 및 발표  
 **링크:** `Repository URL 추가 예정` <!-- TODO: 실제 레포 URL로 교체 -->  
-**상태:** 포트폴리오 문서화 완료 / 별도 레포 정리 예정
 
 > **핵심 결과:** 첫 결제 전환에는 초기 학습 도달 수준이, 정기결제 유지에는 결제 이후 학습이 이어진 **활동일수**가 더 중요한 신호로 관찰되었습니다.
 
@@ -220,11 +212,10 @@
 ## 3. 서울시 지하철 사고 원인 분석 및 안전 개선 방안
 
 
-**프로젝트 타입:** 부트캠 팀 프로젝트  
+**프로젝트 타입:** 부트캠프 팀 프로젝트  
 **기간:** 2026.04  
 **역할:** 프로젝트 리더, 회의·역할 분담·의사결정, 승강설비 사고 분석, 공동 발표 및 Q&A 참여  
-**링크:** `Repository URL 추가 예정` <!-- TODO: 실제 레포 URL로 교체 -->  
-**상태:** 포트폴리오 문서화 완료 / 별도 레포 정리 예정
+**링크:** [Repository](https://github.com/lucyjeehyeon/seoul-subway-safety-analysis)
 
 > **핵심 결과:** 사고를 하나의 원인으로 설명하기보다, 사고 유형에 따라 시간적·공간적·구조적 위험 요인이 다르게 결합되는 양상을 분석했습니다.
 
@@ -279,9 +270,8 @@
 
 
 **프로젝트 타입:** 교과 팀 프로젝트  
-**기간:** 2025.09–12  
+**기간:** 2025.09-12  
 **역할:** 평가 대상 아이디어 제안, 해외 공식문서·학술자료 조사, 윤리 영향평가 보고서 공동 작성  
-**상태:** 보고서 정리 완료
 
 > **핵심 결과:** 유해 발언 탐지 성능만이 아니라, 음성 데이터 수집과 자동 제재가 이용자의 권리·신뢰에 미치는 영향을 함께 평가해야 한다는 점을 확인했습니다.
 
@@ -315,9 +305,8 @@
 
 
 **프로젝트 타입:** 교과 개인 프로젝트  
-**기간:** 2025.03–06  
+**기간:** 2025.03-06  
 **역할:** 개인 프로젝트 전 과정 — 문제 정의, 데이터 정제, 타깃 설계, Orange3 워크플로 구축 및 모델 평가  
-**상태:** 개인 프로젝트 보고서 완료
 
 > **핵심 결과:** 구조화된 게임 속성을 이용해 다운로드 수 기준 상위 25% 게임 여부를 분류했으며, Decision Tree에서 약 **86% 정확도**와 약 **0.96 ROC-AUC**를 확인했습니다.
 
@@ -346,9 +335,9 @@
 
 
 **프로젝트 타입:** 캡스톤·연구 팀 프로젝트  
-**기간:** 2024.09–2025.02  
+**기간:** 2024.09-2025.02  
 **역할:** 데이터 수집·전처리 공동 수행, 머신러닝 모델링 및 논문 작성 주도  
-**링크:** `Repository URL 추가 예정` <!-- TODO: 실제 레포 URL로 교체 --> · [논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132267)  
+**링크:** [Repository](https://github.com/lucyjeehyeon/pothole-risk-factor-analysis) · [논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132267)  
 **성과:** 2025년도 한국통신학회 동계종합학술발표회 발표 및 논문 게재
 
 > **핵심 결과:** LightGBM이 포트홀 발생 클래스에서 **F1-Score 0.81**로 가장 균형 잡힌 성능을 보였으며, 풍속·유입·유출 교통량·버스 노선 수·기상 요인이 주요 변수로 나타났습니다.
@@ -389,9 +378,8 @@
 
 
 **프로젝트 타입:** 교과 팀 프로젝트  
-**기간:** 2023.03–06  
+**기간:** 2023.03-06  
 **역할:** 최종 발표 담당  
-**상태:** 발표자료 정리 완료
 
 > **핵심 결과:** 자체 설문을 통해 왓챠의 이용·비이용 이유와 서비스 인식을 분석하고, 차별화된 부가서비스 홍보와 타깃 마케팅 방향을 제안했습니다.
 
@@ -416,7 +404,7 @@
 
 
 **프로젝트 타입:** 캡스톤·연계 실습 팀 프로젝트  
-**기간:** 2022.09–12, 후속 연계 실습에서 고도화  
+**기간:** 2022.09-12, 2023.09-12  
 **역할:** 주제 아이디어 제안, 크롤링 코드 작성·데이터 수집, PPT 공동 제작 및 발표  
 **링크:** [Repository](https://github.com/lucyjeehyeon/voicefishing_analysis)
 
