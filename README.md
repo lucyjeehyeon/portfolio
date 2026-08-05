@@ -1,4 +1,4 @@
-[🇺🇸 English](./README.md) | [🇰🇷 한국어](./README_KO.md)
+[English](./README.md) | [한국어](./README_KO.md)
 
 # 📂 Data Analysis Portfolio
 
@@ -8,7 +8,6 @@ This repository presents data analysis projects completed through university cou
 Rather than simply listing project outcomes, it documents the process of **defining problems, validating data, and translating analytical findings into actionable next steps**.
 
 > **Turning complex data into clear insights and practical next steps.**  
-> I turn complex data into clear insights and actionable next steps.
 
 <p>
 
