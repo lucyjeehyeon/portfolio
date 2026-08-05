@@ -22,7 +22,7 @@ Through these projects, I have practiced not only analyzing data, but also defin
 |---|---|---|---|---|---|
 | ToxMod AI Risk Assessment | Academic Project | 2025.09 – 2025.12 | Ethical impact of AI voice moderation | AI Ethics, Risk Analysis, Impact Assessment | - |
 | Steam Game Attribute Prediction | Academic Project | 2025.03 – 2025.06 | Prediction of top downloaded Steam games | Orange3, Decision Tree, Classification, Model Evaluation | - |
-| Pothole Risk Factor Analysis | Research / Capstone Project | 2024.09 – 2025.02 | Key factors of pothole occurrence | Python, Machine Learning, Feature Engineering, Spatial Data | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
+| Pothole Risk Factor Analysis | Research / Capstone Project | 2024.09 – 2025.02 | Key factors of pothole occurrence | Python, Machine Learning, Feature Engineering, Spatial Data | [Team Repository](https://github.com/lucyjeehyeon/pothole-risk-factor-analysis) |
 | Watcha User Behavior Analysis | Academic Project | 2023.03 – 2023.06 | OTT user behavior and marketing strategy | Survey Analysis, User Behavior Analysis, Marketing Strategy | - |
 | Voice Phishing Pattern Analysis | Academic Project | 2022.09 – 2022.12 | Text-based voice phishing pattern analysis | Crawling, Text Preprocessing, NLP, Word Cloud, Sentiment Analysis | [Repository](https://github.com/lucy539090/voicefishing_analysis) |
 
@@ -158,7 +158,7 @@ It also helped me practice defining a target variable, designing a classificatio
 **Type:** Research / Capstone Project  
 **Period:** 2024.09 – 2025.02  
 **Role:** Data Preprocessing, Feature Engineering, Machine Learning Modeling, Research Paper  
-**Link:** [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2)
+**Link:** [Team Repository](https://github.com/lucyjeehyeon/pothole-risk-factor-analysis)
 
 ### 📌 Overview
 
