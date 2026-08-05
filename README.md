@@ -15,13 +15,13 @@
 > 복잡한 데이터를 명확한 인사이트와 실행 가능한 다음 단계로 연결합니다.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  
+  
+  
+  
+  
+  
+  
 </p>
 
 ---
@@ -43,135 +43,16 @@
 
 ## 📌 Project Summary
 
-| 프로젝트명 | 프로젝트 타입 | 기간 | 메인 포커싱 분석 | 메인 스킬 | 레포 링크 |
-|---|---|---:|---|---|---|
-| **공유오피스 무료체험 전환 체계 진단** | 부트캠 팀 프로젝트 | 2026.07 | 무료체험 퍼널, 반복 방문 전환 신호, 지점별 병목 진단 | Python, Funnel Analysis, Statistical Testing, ML, Tableau | - |
-| **구독형 교육 서비스 전환·리텐션 분석** | 부트캠 팀 프로젝트 | 2026.06 | 첫 결제 전환, 학습 행동 세그먼트, 정기결제 유지 | Python, User Segmentation, Retention, A/B Test Design | - |
-| **서울시 지하철 사고 원인 분석 및 안전 개선** | 부트캠 팀 프로젝트 | 2026.04 | 사고 유형별 시간·공간·구조적 위험 요인 분석 | Python, EDA, Public Data, Correlation Analysis, Tableau | - |
-| **ToxMod AI 윤리 영향평가** | 교과 팀 프로젝트 | 2025.09–12 | 음성 중재 AI의 프라이버시·공정성·투명성 평가 | AI Ethics, Risk Analysis, Impact Assessment, Policy Review | - |
-| **Steam 게임 속성 기반 인기 게임 예측** | 교과 개인 프로젝트 | 2025.03–06 | 게임 속성을 활용한 상위 다운로드 게임 분류 | Orange3, Decision Tree, Classification, Model Evaluation | - |
-| **포트홀 발생 주요 요인 분석** | 캡스톤·연구 팀 프로젝트 | 2024.09–2025.02 | 공간·기상·교통 데이터 통합 및 발생 요인 중요도 분석 | Python, Spatial Data, Feature Engineering, LightGBM | [Repository](https://github.com/lucyjeehyeon/pothole-risk-factor-analysis) |
-| **OTT 플랫폼 왓챠 소비층 확보 방안** | 교과 팀 프로젝트 | 2023.03–06 | 자체 설문 기반 사용자 인식·이용 요인 및 마케팅 방향 | Survey Analysis, User Behavior, Statistical Analysis, Strategy | - |
-| **보이스피싱 패턴 분석** | 캡스톤·연계 실습 팀 프로젝트 | 2022.09–12<br>후속 고도화 | 사례 스크립트·유튜브 데이터 수집 및 텍스트 패턴 분석 | Crawling, Text Preprocessing, KoNLPy, WordCloud, Sentiment | [Repository](https://github.com/lucyjeehyeon/voicefishing_analysis) |
-
----
-
-## 🖼 Project Gallery
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/shared_office_card.png" width="100%" alt="공유오피스 무료체험 전환 분석">
-
-### 🏢 공유오피스 무료체험 전환 분석
-
-**긴 체류보다 서로 다른 날짜까지 이어진 반복 방문이 결제 전환과 더 일관되게 연결됨을 확인했습니다.**
-
-`퍼널 분석` `행동 분석` `통계 검정` `지점 진단` `Tableau`
-
-[프로젝트 상세 보기](#project-shared-office)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/subscription_card.png" width="100%" alt="구독형 교육 서비스 전환 리텐션 분석">
-
-### 📚 구독형 교육 서비스 전환·리텐션 분석
-
-**첫 결제 전에는 레슨 7회 완료, 결제 후에는 학습 활동일수가 핵심 행동 신호로 관찰되었습니다.**
-
-`퍼널` `세그먼트` `리텐션` `수익 기여도` `A/B 테스트`
-
-[프로젝트 상세 보기](#project-subscription)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/subway_card.png" width="100%" alt="서울시 지하철 사고 원인 분석">
-
-### 🚇 서울시 지하철 사고 원인 분석
-
-**사고 유형에 따라 혼잡·환승 구조·곡선 승강장·연단 간격·노후도·기상이 다르게 작용하는 패턴을 분석했습니다.**
-
-`공공데이터` `EDA` `상관분석` `안전 전략` `Tableau`
-
-[프로젝트 상세 보기](#project-subway)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/toxmod_card.png" width="100%" alt="ToxMod AI 윤리 영향평가">
-
-### 🛡️ ToxMod AI 윤리 영향평가
-
-**게임 음성 중재 AI를 프라이버시·공정성·투명성 관점에서 평가하고 개선 과제를 제안했습니다.**
-
-`AI Ethics` `Privacy` `Fairness` `Transparency` `Risk Assessment`
-
-[프로젝트 상세 보기](#project-toxmod)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/steam_card.png" width="100%" alt="Steam 인기 게임 예측">
-
-### 🎮 Steam 인기 게임 예측
-
-**가격·평점·리뷰·난이도 등 게임 속성을 이용해 다운로드 수 상위 25% 게임을 분류했습니다.**
-
-`Orange3` `Decision Tree` `Confusion Matrix` `ROC-AUC`
-
-[프로젝트 상세 보기](#project-steam)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/pothole_card.png" width="100%" alt="포트홀 발생 주요 요인 분석">
-
-### 🛣️ 포트홀 발생 주요 요인 분석
-
-**33만 건 이상의 공간·기상·교통 데이터를 통합해 포트홀 발생의 주요 요인을 분석하고 논문으로 확장했습니다.**
-
-`Spatial Data` `XGBoost` `LightGBM` `CatBoost` `Research Paper`
-
-[프로젝트 상세 보기](#project-pothole)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/watcha_card.png" width="100%" alt="왓챠 소비층 확보 방안">
-
-### 🎬 왓챠 소비층 확보 방안
-
-**자체 설문과 외부 자료를 바탕으로 이용·비이용 이유와 서비스 인식을 분석해 소비층 확보 전략을 제안했습니다.**
-
-`Survey` `User Perception` `Statistical Analysis` `Marketing Strategy`
-
-[프로젝트 상세 보기](#project-watcha)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/voice_phishing_card.png" width="100%" alt="보이스피싱 패턴 분석">
-
-### 📞 보이스피싱 패턴 분석
-
-**사례 스크립트와 유튜브 데이터를 수집·정제해 반복적으로 등장하는 키워드와 텍스트 패턴을 탐색했습니다.**
-
-`Crawling` `KoNLPy` `WordCloud` `Sentiment Analysis` `NLP`
-
-[프로젝트 상세 보기](#project-voice-phishing)
-
-</td>
-</tr>
-</table>
+| 프로젝트명 | 기간 | 메인 포커싱 분석 | 메인 스킬 | 레포 링크 |
+|---|---:|---|---|---|
+| **공유오피스 무료체험 전환 체계 진단** | 2026.07 | 무료체험 퍼널, 반복 방문 전환 신호, 지점별 병목 진단 | Python, Funnel Analysis, Statistical Testing, ML, Tableau | `Repository URL 추가 예정` |
+| **구독형 교육 서비스 전환·리텐션 분석** | 2026.06 | 초기 학습 퍼널, 활성화 기준, 첫 결제 전환, 유저 세그먼트 | Python, User Segmentation, Funnel Analysis, A/B Test Design | `Repository URL 추가 예정` |
+| **서울시 지하철 사고 원인 분석 및 안전 개선** | 2026.04 | 사고 유형별 시간·공간·구조적 위험 요인, 승강설비 사고 분석 | Python, EDA, Public Data, Correlation Analysis, Tableau | `Repository URL 추가 예정` |
+| **ToxMod AI 윤리 영향평가** | 2025.09–12 | 음성 중재 AI의 프라이버시·공정성·투명성 평가 | AI Ethics, Risk Analysis, Impact Assessment, Policy Review | - |
+| **Steam 게임 속성 기반 인기 게임 예측** | 2025.03–06 | 게임 속성을 활용한 상위 다운로드 게임 분류 | Orange3, Decision Tree, Classification, Model Evaluation | - |
+| **포트홀 발생 주요 요인 분석** | 2024.09–2025.02 | 공간·기상·교통 데이터 통합 및 발생 요인 중요도 분석 | Python, Spatial Data, Feature Engineering, LightGBM | `Repository URL 추가 예정` |
+| **OTT 플랫폼 왓챠 소비층 확보 방안** | 2023.03–06 | 자체 설문 기반 사용자 인식·이용 요인 및 마케팅 방향 | Survey Analysis, User Behavior, Statistical Analysis, Strategy | - |
+| **보이스피싱 패턴 분석** | 2022.09–12<br>후속 고도화 | 사례 스크립트·유튜브 데이터 수집 및 텍스트 패턴 분석 | Crawling, Text Preprocessing, KoNLPy, WordCloud, Sentiment | [Repository](https://github.com/lucyjeehyeon/voicefishing_analysis) |
 
 ---
 
@@ -187,7 +68,7 @@
 | **Text, NLP & Survey Analysis** | 웹 크롤링, 한국어 전처리, 명사 추출, 워드클라우드, 감성 분석, 설문 분석 | 보이스피싱, 왓챠, 공유오피스 리뷰 분석 |
 | **AI Ethics & Risk Analysis** | 이해관계자 분석, 프라이버시·공정성·투명성 평가, 윤리적 딜레마 및 개선안 도출 | ToxMod |
 | **Visualization & Communication** | Tableau 대시보드, 데이터 시각화, 분석 스토리라인, 보고서·논문·발표자료 작성 | 공유오피스, 구독 서비스, 지하철, 포트홀, 보이스피싱 |
-| **Collaboration & Documentation** | 전처리 기준 명세화, 코드 통합, 역할 조율, 협업 기록, 발표·Q&A 준비 | 팀 프로젝트 전반 |
+| **Project Leadership & Documentation** | 프로젝트·팀 운영, 역할 분담, 회의 진행, 전처리 기준 명세화, 코드 통합, 회의록·협업 기록, 발표·Q&A | 공유오피스, 구독 서비스, 서울시 지하철, 포트홀, 보이스피싱 |
 
 ---
 
@@ -210,11 +91,11 @@
 <a id="project-shared-office"></a>
 ## 1. 공유오피스 무료체험 전환 체계 진단
 
-<img src="./assets/shared_office_dashboard.png" width="100%" alt="공유오피스 지점별 체험 성과 진단 대시보드">
 
 **프로젝트 타입:** 부트캠 팀 프로젝트  
 **기간:** 2026.07  
-**역할:** 외부 데이터 전처리, 다지점 이용 분석, 지점별 성과·상권 분석, 공통 전처리 및 코드 검증 참여  
+**역할:** 팀장, 외부 데이터 병합·전처리, 랜드마크 모델링, 다지점·지점별 분석, 마스터 테이블·코드 통합, 발표 Q&A  
+**링크:** `Repository URL 추가 예정` <!-- TODO: 실제 레포 URL로 교체 -->  
 **상태:** 포트폴리오 문서화 완료 / 별도 레포 정리 예정
 
 > **핵심 결과:** 무료체험 결제 전환과 가장 일관되게 연결된 행동은 한 번 오래 머무는 것이 아니라, 서로 다른 날짜까지 이용이 이어지는 **반복 방문**이었습니다.
@@ -257,11 +138,15 @@
 <details>
 <summary><b>🙋‍♀️ 담당 역할 및 회고</b></summary>
 
-- 외부 데이터 수집·전처리 및 지점 반경 기준 데이터 결합
-- 다지점 이용과 반복 방문의 관계를 비교하고 통제 변수를 추가해 해석 보완
-- 지점별 수요·입지·인프라·리뷰 분석 및 그룹별 운영 전략 도출
-- 공통 전처리 명세, 마스터 테이블 검증, 코드 통합 과정 참여
-- 분석 결과를 인과로 단정하지 않고 관찰된 관계와 실험이 필요한 가설을 구분하는 중요성을 학습
+- **팀장 역할:** 회의 진행, 중간 역할 분담·조율, 주요 의사결정 지원, 회의록 및 협업 기록 관리
+- 신청·방문·결제 데이터를 연결하는 **마스터 테이블 전처리**와 공통 전처리 과정에 참여
+- 지하철 유동인구, 주변 인프라, 지도·블로그 리뷰 등 **외부 데이터 병합·전처리**
+- D0·D1·D2 누적 행동을 활용한 **랜드마크 모델링**으로 전환 신호 강화 시점 분석
+- 다지점 이용과 반복 방문의 관계를 비교하고, 방문일수·체크인·체류시간을 보정해 해석 보완
+- 행동·결제·인프라·리뷰·유동인구를 통합한 **지점별 성과 및 병목 분석**
+- 팀 분석 코드를 하나의 노트북으로 **통합·정리하고 실행 흐름과 결과를 검증**
+- PPT는 팀원들과 공동 제작했으며, 최종 발표에서는 **질의응답을 담당**
+- 프로젝트 리더와는 별도로 팀 운영을 맡은 **팀장** 경험을 통해 분석뿐 아니라 협업 구조와 문서화의 중요성을 학습
 
 </details>
 
@@ -270,11 +155,11 @@
 <a id="project-subscription"></a>
 ## 2. 구독형 교육 서비스 전환·리텐션 분석
 
-<img src="./assets/subscription_card.png" width="100%" alt="구독형 교육 서비스 전환 리텐션 분석">
 
 **프로젝트 타입:** 부트캠 팀 프로젝트  
 **기간:** 2026.06  
-**역할:** 첫 결제 이후 정기결제 전환·유지 분석, 학습 지속성 세그먼트, 플랜별 수익 기여도 분석  
+**역할:** 초기 학습 퍼널·활성화 기준·레슨 완료 임계점·콘텐츠 개선 후보·유저 세그먼트 분석, PPT 공동 제작 및 발표  
+**링크:** `Repository URL 추가 예정` <!-- TODO: 실제 레포 URL로 교체 -->  
 **상태:** 포트폴리오 문서화 완료 / 별도 레포 정리 예정
 
 > **핵심 결과:** 첫 결제 전환에는 초기 학습 도달 수준이, 정기결제 유지에는 결제 이후 학습이 이어진 **활동일수**가 더 중요한 신호로 관찰되었습니다.
@@ -304,6 +189,22 @@
 </details>
 
 <details>
+<summary><b>🙋‍♀️ 담당 역할</b></summary>
+
+- 유저·콘텐츠·이벤트 로그의 데이터 정의를 확인하고, **가입 후 7일 기준 전처리와 분석 테이블 생성**
+- 무료체험 폐지 후 신규 유저의 **레슨 페이지 진입 → 레슨 완료 퍼널** 진단
+- 첫 레슨 완료 여부가 이후 학습·질문 클릭·결제 행동과 어떻게 연결되는지 비교
+- 레슨 완료 수별 결제율과 유저 규모를 함께 검토해 **레슨 7회 완료**를 고활성 기준 후보로 도출
+- 레슨 진입 후 미완료 유저를 행동 수준에 따라 세분화하고 개선 액션 제안
+- 시작 규모와 미완료 규모를 함께 반영해 **beginner 콘텐츠 개선 우선순위** 탐색
+- beginner → advanced 등 난이도 이동 경로별 행동 차이 분석
+- 일별 할인율과 첫 결제율의 관계 분석
+- 콘텐츠 경험과 레슨 완료 수를 기준으로 무행동형·탐색형·약한 학습형·핵심 학습형의 **유저 세그먼트 설계**
+- PPT를 팀원들과 공동 제작하고, 최종 발표를 다른 팀원 1명과 함께 담당
+
+</details>
+
+<details>
 <summary><b>⚠️ 해석의 한계</b></summary>
 
 - 광고 채널·유입 품질 데이터 부재로 무료체험 폐지 전후의 유저 구성 변화를 분리하기 어려움
@@ -318,11 +219,11 @@
 <a id="project-subway"></a>
 ## 3. 서울시 지하철 사고 원인 분석 및 안전 개선 방안
 
-<img src="./assets/subway_card.png" width="100%" alt="서울시 지하철 사고 원인 분석">
 
 **프로젝트 타입:** 부트캠 팀 프로젝트  
 **기간:** 2026.04  
-**역할:** 팀 공통 데이터 분석, 결과 시각화·정리, 안전 개선안 및 발표자료 구성 참여  
+**역할:** 프로젝트 리더, 회의·역할 분담·의사결정, 승강설비 사고 분석, 공동 발표 및 Q&A 참여  
+**링크:** `Repository URL 추가 예정` <!-- TODO: 실제 레포 URL로 교체 -->  
 **상태:** 포트폴리오 문서화 완료 / 별도 레포 정리 예정
 
 > **핵심 결과:** 사고를 하나의 원인으로 설명하기보다, 사고 유형에 따라 시간적·공간적·구조적 위험 요인이 다르게 결합되는 양상을 분석했습니다.
@@ -353,6 +254,18 @@
 </details>
 
 <details>
+<summary><b>🙋‍♀️ 담당 역할</b></summary>
+
+- **프로젝트 리더**로서 분석 방향 설정, 역할 분담, 회의 진행과 주요 의사결정을 대표해 조율
+- 데이터 전처리는 팀원 전체가 함께 참여했으며, 공통 기준을 맞춰 사고·이용량·시설·기상 데이터를 병합
+- 개인 분석 파트로 **승강설비 사고**를 맡아 역사 규모, 설비 노후도, 강수 등 외부 조건과 사고 패턴을 분석
+- 분석 결과의 우선순위와 안전 개선 방향을 팀원들과 함께 정리
+- PPT를 공동 제작하고, 최종 발표를 다른 팀원 1명과 함께 담당
+- 발표 후 질의응답에도 일부 참여
+
+</details>
+
+<details>
 <summary><b>💡 회고</b></summary>
 
 분석 내용이 풍부했던 만큼 핵심 결론을 먼저 제시하고, 유의미하지 않거나 중복되는 분석은 과감하게 축약해야 전달력이 높아진다는 점을 배웠습니다. 또한 복잡한 동선이나 혼잡도처럼 정의에 따라 결과가 달라질 수 있는 변수는 측정 기준을 더 명확히 제시할 필요가 있었습니다.
@@ -364,11 +277,10 @@
 <a id="project-toxmod"></a>
 ## 4. ToxMod AI 윤리 영향평가
 
-<img src="./assets/toxmod_card.png" width="100%" alt="ToxMod AI 윤리 영향평가">
 
 **프로젝트 타입:** 교과 팀 프로젝트  
 **기간:** 2025.09–12  
-**역할:** 평가 대상 아이디어 제안 및 초기 방향 설정, 윤리 원칙별 조사·평가와 개선안 도출 참여  
+**역할:** 평가 대상 아이디어 제안, 해외 공식문서·학술자료 조사, 윤리 영향평가 보고서 공동 작성  
 **상태:** 보고서 정리 완료
 
 > **핵심 결과:** 유해 발언 탐지 성능만이 아니라, 음성 데이터 수집과 자동 제재가 이용자의 권리·신뢰에 미치는 영향을 함께 평가해야 한다는 점을 확인했습니다.
@@ -388,6 +300,12 @@
 - 이용자 보호와 표현의 자유가 충돌하는 윤리적 딜레마 정리
 - AI의 1차 탐지 후 인간 검토를 거치는 단계적 제재 구조와 정기적 외부 검증 제안
 
+### 담당 역할
+
+- 게임 음성 중재 AI인 **ToxMod를 평가 대상으로 제안**하고 초기 프로젝트 방향 설정
+- Activision·Modulate 공식 문서와 해외 기사·학술자료 등 **해외 자료 조사**
+- 조사 내용을 팀원들과 공유하고 프라이버시·공정성·투명성 평가 및 개선안 보고서 공동 작성
+
 </details>
 
 ---
@@ -395,11 +313,10 @@
 <a id="project-steam"></a>
 ## 5. Steam 게임 속성 기반 인기 게임 예측
 
-<img src="./assets/steam_card.png" width="100%" alt="Steam 인기 게임 예측">
 
 **프로젝트 타입:** 교과 개인 프로젝트  
 **기간:** 2025.03–06  
-**역할:** 문제 정의, 데이터 정제, 타깃 설계, Orange3 워크플로 구축, 모델 평가 전 과정  
+**역할:** 개인 프로젝트 전 과정 — 문제 정의, 데이터 정제, 타깃 설계, Orange3 워크플로 구축 및 모델 평가  
 **상태:** 개인 프로젝트 보고서 완료
 
 > **핵심 결과:** 구조화된 게임 속성을 이용해 다운로드 수 기준 상위 25% 게임 여부를 분류했으며, Decision Tree에서 약 **86% 정확도**와 약 **0.96 ROC-AUC**를 확인했습니다.
@@ -427,12 +344,11 @@
 <a id="project-pothole"></a>
 ## 6. 트리 기반 머신러닝을 활용한 포트홀 발생 주요 요인 분석
 
-<img src="./assets/pothole_card.png" width="100%" alt="포트홀 발생 주요 요인 분석">
 
 **프로젝트 타입:** 캡스톤·연구 팀 프로젝트  
 **기간:** 2024.09–2025.02  
-**역할:** 데이터 전처리, 특성 설계, 머신러닝 모델링, 논문 작성 참여  
-**링크:** [Repository](https://github.com/lucyjeehyeon/pothole-risk-factor-analysis) · [논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132267)  
+**역할:** 데이터 수집·전처리 공동 수행, 머신러닝 모델링 및 논문 작성 주도  
+**링크:** `Repository URL 추가 예정` <!-- TODO: 실제 레포 URL로 교체 --> · [논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132267)  
 **성과:** 2025년도 한국통신학회 동계종합학술발표회 발표 및 논문 게재
 
 > **핵심 결과:** LightGBM이 포트홀 발생 클래스에서 **F1-Score 0.81**로 가장 균형 잡힌 성능을 보였으며, 풍속·유입·유출 교통량·버스 노선 수·기상 요인이 주요 변수로 나타났습니다.
@@ -451,6 +367,13 @@
 - XGBoost, LightGBM, CatBoost 모델 비교 및 Precision-Recall Curve 기반 임계값 조정
 - 변수 중요도를 이용해 예방적 도로 유지보수에 참고할 위험 요인 해석
 
+### 담당 역할
+
+- 포트홀·도로·교통·기상 등 일부 데이터 수집과 전처리를 팀원들과 역할 분담하여 수행
+- XGBoost·LightGBM·CatBoost 비교, 하이퍼파라미터 튜닝, 임계값 조정과 변수 중요도 해석 등 **모델링을 주도적으로 담당**
+- 분석 과정과 결과를 학술 형식으로 정리하고 **논문 작성 전반을 주도**
+- 캡스톤 결과를 학술대회 발표와 논문 게재까지 확장
+
 ### 연구 의의
 
 - 탐지 이후의 사후 대응이 아니라 발생 가능성이 높은 도로 구간을 선제적으로 관리하는 관점 제시
@@ -464,11 +387,10 @@
 <a id="project-watcha"></a>
 ## 7. OTT 플랫폼 왓챠의 소비층 확보 방안
 
-<img src="./assets/watcha_card.png" width="100%" alt="왓챠 소비층 확보 방안">
 
 **프로젝트 타입:** 교과 팀 프로젝트  
 **기간:** 2023.03–06  
-**역할:** 팀원, 설문 결과 분석 및 마케팅·서비스 개선 방향 도출 참여  
+**역할:** 최종 발표 담당  
 **상태:** 발표자료 정리 완료
 
 > **핵심 결과:** 자체 설문을 통해 왓챠의 이용·비이용 이유와 서비스 인식을 분석하고, 차별화된 부가서비스 홍보와 타깃 마케팅 방향을 제안했습니다.
@@ -492,11 +414,10 @@
 <a id="project-voice-phishing"></a>
 ## 8. 보이스피싱 패턴 분석
 
-<img src="./assets/voice_phishing_card.png" width="100%" alt="보이스피싱 패턴 분석">
 
 **프로젝트 타입:** 캡스톤·연계 실습 팀 프로젝트  
 **기간:** 2022.09–12, 후속 연계 실습에서 고도화  
-**역할:** 데이터 수집, 문서 변환·병합, 한국어 텍스트 전처리, 키워드·패턴 분석  
+**역할:** 주제 아이디어 제안, 크롤링 코드 작성·데이터 수집, PPT 공동 제작 및 발표  
 **링크:** [Repository](https://github.com/lucyjeehyeon/voicefishing_analysis)
 
 > **핵심 결과:** 초기 캡스톤에서 데이터 수집과 프로토타입 분석을 수행한 뒤, 후속 연계 실습에서 전처리 파이프라인과 텍스트 분석을 보완했습니다.
@@ -508,6 +429,13 @@
 
 <details>
 <summary><b>🔍 처리 과정 및 분석</b></summary>
+
+#### 담당 역할
+
+- 보이스피싱 사례의 반복 패턴을 데이터로 분석하자는 **초기 아이디어 제안**
+- 유튜브 관련 데이터를 수집하는 **크롤링 코드 작성**
+- 보이스피싱 사례 스크립트와 영상 메타데이터 등 분석용 데이터 수집
+- PPT는 팀원들과 공동 제작했으며, 최종 발표 담당
 
 #### Script Data
 
@@ -537,8 +465,9 @@
 
 현재 포트폴리오에는 **8개 프로젝트의 문제 정의, 분석 과정, 주요 결과와 역할**을 정리했습니다.
 
-- 공개 레포가 있는 프로젝트: 포트홀 발생 주요 요인 분석, 보이스피싱 패턴 분석
-- 나머지 프로젝트: 포트폴리오 요약을 먼저 제공하고 있으며, 공개 가능한 코드·산출물을 순차적으로 별도 레포로 정리할 예정입니다.
+- 공개 레포가 있는 프로젝트: 보이스피싱 패턴 분석
+- 레포 정리 예정: 공유오피스 무료체험 전환, 구독형 교육 서비스 전환·리텐션, 서울시 지하철 사고 원인 분석, 포트홀 발생 주요 요인 분석
+- 나머지 프로젝트: 포트폴리오 요약과 산출물 중심으로 정리했습니다.
 - 프로젝트 데이터는 라이선스·보안·교육용 제공 조건에 따라 원본 공개가 제한될 수 있습니다.
 
 ---
