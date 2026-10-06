@@ -33,6 +33,7 @@ My projects span public safety and urban data, product and user behavior, conver
 - **Evidence-Based Analysis** — Applying statistical inference and machine learning while distinguishing association, prediction, and causality
 - **Visualization & Storytelling** — Communicating complex findings through dashboards and structured analytical narratives
 - **Actionable Recommendations** — Connecting analytical findings to experiments, operational improvements, and service strategy
+- **Analysis-to-Product Prototyping** — Translating analytical findings into user flows and interactive UI/UX prototypes
 
 ---
 
@@ -40,6 +41,7 @@ My projects span public safety and urban data, product and user behavior, conver
 
 | Project | Period | Main Focus | Main Skills | Repository |
 |---|---|---|---|---|
+| **Viral to Value — Social App Analysis & UI/UX Redesign** | 2026.08-10 | Question supply and semantic repetition, post-completion behavior, service redesign | SQL, Python, Semantic Analysis, Funnel Analysis, HTML/CSS/JavaScript | [Repository](https://github.com/codeit-team7/team7) · [Demo](https://lucyjeehyeon.github.io/ping-demo/) |
 | **Shared Office Free-Trial Conversion Funnel Diagnosis** | 2026.07 | Free-trial funnel, repeat-visit conversion signals, branch-level bottleneck diagnosis | Python, Funnel Analysis, Statistical Testing, ML, Tableau | [Repository](https://github.com/lucyjeehyeon/shared-office-trial-conversion-analysis) |
 | **Subscription-Based Education Service Conversion & Retention Analysis** | 2026.05-06 | Early learning funnel, activation threshold, first-payment conversion, user segmentation | Python, User Segmentation, Funnel Analysis, A/B Test Design | `Repository URL to be added` |
 | **Seoul Subway Accident Cause Analysis & Safety Improvement** | 2026.04 | Temporal, spatial, and structural risk factors by accident type; escalator and elevator accident analysis | Python, EDA, Public Data, Correlation Analysis, Tableau | [Repository](https://github.com/lucyjeehyeon/seoul-subway-safety-analysis) |
@@ -55,15 +57,16 @@ My projects span public safety and urban data, product and user behavior, conver
 
 | Area | Demonstrated Capabilities | Related Projects |
 |---|---|---|
-| **Data Preparation & Validation** | Reviewing data definitions, handling missing values and duplicates, validating join keys, designing derived variables, and building analytical marts | Shared Office, Subscription Service, Subway, Pothole, Voice Phishing |
-| **Product & User Behavior Analytics** | Funnel analysis, behavioral segmentation, conversion bottleneck analysis, retention and renewal analysis, and branch-level performance diagnosis | Shared Office, Subscription Service, WATCHA |
+| **Data Preparation & Validation** | Reviewing data definitions, handling missing values and duplicates, validating join keys, designing derived variables, and building analytical marts | Viral to Value, Shared Office, Subscription Service, Subway, Pothole, Voice Phishing |
+| **Product & User Behavior Analytics** | Funnel analysis, behavioral segmentation, conversion bottleneck analysis, retention and renewal analysis, and branch-level performance diagnosis | Viral to Value, Shared Office, Subscription Service, WATCHA |
+| **Product Prototyping** | User-flow design, AI-assisted HTML/CSS/JavaScript prototyping, screen-flow review, and live demonstrations | Viral to Value |
 | **Statistics & Experiment Design** | Proportion comparison, chi-square tests, correlation analysis, confidence intervals, multiple testing, and A/B test design | Shared Office, Subscription Service, Subway, WATCHA |
 | **Machine Learning** | Classification modeling, tree-based model comparison, time-series demand forecasting, threshold adjustment, and feature importance interpretation | Shared Office, Steam, Pothole |
 | **Spatial & Public Data Analysis** | Coordinate and road-link mapping, public data integration, and combination of external environmental variables | Shared Office, Subway, Pothole |
-| **Text, NLP & Survey Analysis** | Web crawling, Korean text preprocessing, noun extraction, word clouds, sentiment analysis, and survey analysis | Voice Phishing, WATCHA, Shared Office Review Analysis |
+| **Text, NLP & Survey Analysis** | Web crawling, Korean text preprocessing, noun extraction, word clouds, sentiment analysis, and survey analysis; semantic similarity and repetition analysis | Viral to Value, Voice Phishing, WATCHA, Shared Office Review Analysis |
 | **AI Ethics & Risk Analysis** | Stakeholder analysis, privacy, fairness, and transparency assessment, ethical dilemma analysis, and improvement recommendations | ToxMod |
-| **Visualization & Communication** | Tableau dashboards, data visualization, analytical storytelling, and report, paper, and presentation development | Shared Office, Subscription Service, Subway, Pothole, Voice Phishing |
-| **Project Leadership & Documentation** | Project and team coordination, role assignment, meeting facilitation, preprocessing documentation, code integration, meeting notes, collaboration records, presentations, and Q&A | Shared Office, Subscription Service, Seoul Subway, Pothole, Voice Phishing |
+| **Visualization & Communication** | Tableau dashboards, data visualization, analytical storytelling, and report, paper, and presentation development | Viral to Value, Shared Office, Subscription Service, Subway, Pothole, Voice Phishing |
+| **Project Leadership & Documentation** | Project and team coordination, role assignment, meeting facilitation, preprocessing documentation, code integration, meeting notes, collaboration records, presentations, and Q&A | Viral to Value, Shared Office, Subscription Service, Seoul Subway, Pothole, Voice Phishing |
 
 ---
 
@@ -71,20 +74,82 @@ My projects span public safety and urban data, product and user behavior, conver
 
 | Category | Projects |
 |---|---|
-| 📊 **Product & User Behavior Analytics** | Shared Office Free-Trial Conversion, Subscription-Based Education Service Conversion & Retention, WATCHA Customer Acquisition |
+| 📊 **Product & User Behavior Analytics** | Viral to Value, Shared Office Free-Trial Conversion, Subscription-Based Education Service Conversion & Retention, WATCHA Customer Acquisition |
 | 🚇 **Public Safety & Urban Analytics** | Seoul Subway Accident Cause Analysis, Pothole Occurrence Factor Analysis |
 | 🤖 **Machine Learning & Predictive Modeling** | Pothole Occurrence Factor Analysis, Steam Game Popularity Prediction, Shared Office Visit Demand Forecasting |
 | 🌐 **Spatial & External Data Integration** | Shared Office Branch Analysis, Seoul Subway Accident Analysis, Pothole Occurrence Factor Analysis |
-| 📝 **Text, NLP & Survey Analysis** | Voice Phishing Pattern Analysis, WATCHA Customer Acquisition, Shared Office Review Analysis |
+| 📝 **Text, NLP & Survey Analysis** | Viral to Value, Voice Phishing Pattern Analysis, WATCHA Customer Acquisition, Shared Office Review Analysis |
 | 🛡️ **Risk, Ethics & Social Data Analysis** | ToxMod AI Ethics Impact Assessment, Voice Phishing Pattern Analysis |
-| 📈 **Dashboard & Data Storytelling** | Shared Office Branch Performance Dashboard, Seoul Subway Safety Dashboard, Project Presentation Materials |
+| 📈 **Dashboard & Data Storytelling** | Viral to Value, Shared Office Branch Performance Dashboard, Seoul Subway Safety Dashboard, Project Presentation Materials |
+| 🧩 **Product Design & Prototyping** | Viral to Value UI/UX Redesign |
 
 ---
 
 # 🌟 Featured Projects
 
+<a id="project-viral-to-value"></a>
+## 1. Viral to Value — Data-Driven Redesign of a School-Based Social App
+
+**Project Type:** Bootcamp Final Team Project   
+**Period:** 2026.08.31-2026.10.02  
+**Role:** Project lead, analytical mart construction and preprocessing, Content and Interaction analysis, service redesign and analytical framework planning, AI-assisted UI/UX prototyping, presentation, and Q&A  
+  - **Project lead**: proposed the service-wide redesign and seven-perspective analytical framework, connecting teammates’ findings into a coherent presentation and product improvement plan
+
+**Links:** [Team Repository](https://github.com/codeit-team7/team7) · [Interactive Prototype](https://lucyjeehyeon.github.io/ping-demo/) · [Presentation & Deliverables](https://github.com/codeit-team7/team7/tree/main/deliverables)  
+**Achievement:** First place in the final project peer vote
+> **Key Finding:** Question completion alone did not explain subsequent participation. I analyzed **concentrated question supply, semantic repetition, and post-completion behavior**, then translated the observations into a service redesign and an interactive prototype.
+
+| Problem | Approach | Result |
+|---|---|---|
+| Did a large question library provide varied question experiences? | Examined supply concentration, semantic repetition, and shared versus school-specific questions across 10 schools | The top 10% of phrases accounted for **53.0% of generated/assigned question records**; semantic repetition was **34.42%** in the 501+ cumulative-record segment per user |
+| What happened after users completed questions? | Analyzed question-start, completion, and subsequent event sequences within Hackle visits | **73.75%** of question-start visits reached completion, while **2.12%** of completion visits included a subsequent question-start event within the same visit |
+| How could separate analyses inform a coherent product redesign? | Connected seven analytical perspectives to first participation, question experience, reactions and conversations, and return visits | Created an interactive prototype covering **198 screens/states**, a user-flow document, and a public hands-on demo |
+
+<details>
+<summary><b>🔍 View Analysis Details</b></summary>
+
+### Data & Analysis
+
+- Connected service tables with Hackle event logs, distinguishing user-, school-, question-, and visit-level analytical units and aggregation rules
+- Took responsibility for mart construction and preprocessing as the team's analytical scope expanded from 6 initial marts to **23 analytical tables**
+- Analyzed **3,898 normalized question phrases across 10 schools**, including supply concentration, new-phrase availability, semantic repetition, and shared versus school-specific content
+- Examined completion, subsequent event transitions, and the first classified action after completion separately
+- Distinguished the completion denominator (**149,038 / 202,072 start visits**) from the subsequent-start denominator (**3,162 / 149,038 completion visits**)
+
+### Recommendations
+
+- Incorporate school-life questions and user-submitted content, supported by review and trial exposure
+- Prioritize **semantic duplication and per-user repeat-exposure intervals** rather than simply increasing the question count
+- Connect completion screens to actual results and received reactions without requiring another round of participation
+
+</details>
+
+<details>
+<summary><b>🙋‍♀️ Role & Reflection</b></summary>
+
+- Proposed the service-wide redesign and the **Growth, Network, Content, Interaction, Value, Trust, and Continuation** framework, connecting teammates' findings to the product improvement flow
+- Took responsibility for **Content and Interaction analysis**, analytical mart construction, preprocessing, and metric definitions
+- Used **ChatGPT and Codex** to assist SQL development, debugging, and HTML/CSS/JavaScript implementation, while specifying analytical requirements and screen flows and reviewing and refining outputs
+- Translated findings into screens and interactions for staged school access, school-life questions, skip reasons, and post-completion result access
+- **Proposed the live demonstration and hands-on demo link**, presented findings, and answered questions about metric definitions and design assumptions
+- Learned to connect analytical evidence to concrete product design while keeping observations, design hypotheses, and validated outcomes separate
+
+</details>
+
+<details>
+<summary><b>⚠️ Interpretation Limitations</b></summary>
+
+- Generated/assigned question records do not establish actual viewing or prove that repetition caused churn
+- The 2.12% metric captures same-visit restart events, not user retention or starts verified against distinct Question Set IDs
+- Analytical populations and observation periods differed across sections and should not be treated as one continuous funnel
+- The prototype was for demonstration, not a production service; its effects on retention or engagement remain **untested**
+
+</details>
+
+---
+
 <a id="project-shared-office"></a>
-## 1. Shared Office Free-Trial Conversion Funnel Diagnosis
+## 2. Shared Office Free-Trial Conversion Funnel Diagnosis
 
 **Project Type:** Bootcamp Team Project  
 **Period:** 2026.07  
@@ -146,7 +211,7 @@ My projects span public safety and urban data, product and user behavior, conver
 ---
 
 <a id="project-subscription"></a>
-## 2. Subscription-Based Education Service Conversion & Retention Analysis
+## 3. Subscription-Based Education Service Conversion & Retention Analysis
 
 **Project Type:** Bootcamp Team Project  
 **Period:** 2026.05-06  
@@ -208,7 +273,7 @@ My projects span public safety and urban data, product and user behavior, conver
 ---
 
 <a id="project-subway"></a>
-## 3. Seoul Subway Accident Cause Analysis & Safety Improvement
+## 4. Seoul Subway Accident Cause Analysis & Safety Improvement
 
 **Project Type:** Bootcamp Team Project  
 **Period:** 2026.04  
@@ -264,7 +329,7 @@ Because the analysis included many findings, I learned that communication become
 ---
 
 <a id="project-toxmod"></a>
-## 4. ToxMod AI Ethics Impact Assessment
+## 5. ToxMod AI Ethics Impact Assessment
 
 **Project Type:** University Course Team Project  
 **Period:** 2025.09-12  
@@ -298,7 +363,7 @@ Because the analysis included many findings, I learned that communication become
 ---
 
 <a id="project-steam"></a>
-## 5. Steam Game Popularity Prediction Based on Game Attributes
+## 6. Steam Game Popularity Prediction Based on Game Attributes
 
 **Project Type:** University Course Individual Project  
 **Period:** 2025.03-06  
@@ -327,7 +392,7 @@ Because the analysis included many findings, I learned that communication become
 ---
 
 <a id="project-pothole"></a>
-## 6. Analysis of Key Factors Associated with Pothole Occurrence Using Tree-Based Machine Learning
+## 7. Analysis of Key Factors Associated with Pothole Occurrence Using Tree-Based Machine Learning
 
 **Project Type:** Capstone Research Team Project  
 **Period:** 2024.09-2025.02  
@@ -369,7 +434,7 @@ Because the analysis included many findings, I learned that communication become
 ---
 
 <a id="project-watcha"></a>
-## 7. Customer Acquisition Strategy for OTT Platform WATCHA
+## 8. Customer Acquisition Strategy for OTT Platform WATCHA
 
 **Project Type:** University Course Team Project  
 **Period:** 2023.03-06  
@@ -394,7 +459,7 @@ Because the analysis included many findings, I learned that communication become
 ---
 
 <a id="project-voice-phishing"></a>
-## 8. Voice Phishing Pattern Analysis
+## 9. Voice Phishing Pattern Analysis
 
 **Project Type:** Capstone and Follow-up Practice Team Project  
 **Period:** 2022.09-12, 2023.09-12  
@@ -444,9 +509,9 @@ This was the first project in which I experienced the importance of transforming
 
 # 🗃 Repository Status
 
-This portfolio currently documents the **problem definition, analysis process, key findings, and roles for eight projects**.
+This portfolio currently documents the **problem definition, analysis process, key findings, and roles for nine projects**.
 
-- Project with a public repository: Voice Phishing Pattern Analysis
+- Projects with public repositories: Viral to Value, Voice Phishing Pattern Analysis
 - Repositories to be organized: Shared Office Free-Trial Conversion, Subscription-Based Education Service Conversion & Retention, Seoul Subway Accident Cause Analysis, and Pothole Occurrence Factor Analysis
 - Remaining projects are documented through portfolio summaries and key deliverables
 - Original project datasets may not be publicly available due to licensing, security, or educational-use restrictions
