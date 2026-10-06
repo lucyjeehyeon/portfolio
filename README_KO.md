@@ -34,6 +34,7 @@
 - **Evidence-Based Analysis** — 통계적 추론과 머신러닝을 활용하되 연관·예측·인과를 구분
 - **Visualization & Storytelling** — 복잡한 결과를 대시보드와 구조화된 스토리로 전달
 - **Actionable Recommendations** — 분석 결과를 실험, 운영 개선, 서비스 전략으로 연결
+- **Analysis-to-Product Prototyping** — 분석 결과를 유저플로우와 인터랙티브 UI/UX 프로토타입으로 구체화
 
 ---
 
@@ -41,6 +42,7 @@
 
 | 프로젝트명 | 기간 | 내용 | 메인 스킬 | Repository |
 |---|---|---|---|---|
+| **Viral to Value — 소셜 앱 분석·UI/UX 재구축** | 2026.08-10 | 질문 공급·의미 반복, 완료 이후 행동, 서비스 재구축 | SQL, Python, Semantic Analysis, Funnel Analysis, HTML/CSS/JavaScript | [Repository](https://github.com/codeit-team7/team7) · [Demo](https://lucyjeehyeon.github.io/ping-demo/) |
 | **공유오피스 무료체험 전환 체계 진단** | 2026.07 | 무료체험 퍼널, 반복 방문 전환 신호, 지점별 병목 진단 | Python, Funnel Analysis, Statistical Testing, ML, Tableau | [Repository](https://github.com/lucyjeehyeon/shared-office-trial-conversion-analysis) |
 | **구독형 교육 서비스 전환·리텐션 분석** | 2026.05-06 | 초기 학습 퍼널, 활성화 기준, 첫 결제 전환, 유저 세그먼트 | Python, User Segmentation, Funnel Analysis, A/B Test Design | `Repository URL 추가 예정` |
 | **서울시 지하철 사고 원인 분석 및 안전 개선** | 2026.04 | 사고 유형별 시간·공간·구조적 위험 요인, 승강설비 사고 분석 | Python, EDA, Public Data, Correlation Analysis, Tableau | [Repository](https://github.com/lucyjeehyeon/seoul-subway-safety-analysis) |
@@ -56,15 +58,16 @@
 
 | 영역 | 수행 역량 | 관련 프로젝트 |
 |---|---|---|
-| **Data Preparation & Validation** | 데이터 정의 검토, 결측·중복 처리, 조인 키 검증, 파생변수 설계, 분석용 마트 구축 | 공유오피스, 구독 서비스, 지하철, 포트홀, 보이스피싱 |
-| **Product & User Behavior Analytics** | 퍼널 분석, 행동 세그먼트, 전환 병목, 리텐션·갱신, 지점별 성과 진단 | 공유오피스, 구독 서비스, 왓챠 |
+| **Data Preparation & Validation** | 데이터 정의 검토, 결측·중복 처리, 조인 키 검증, 파생변수 설계, 분석용 마트 구축 | Viral to Value, 공유오피스, 구독 서비스, 지하철, 포트홀, 보이스피싱 |
+| **Product & User Behavior Analytics** | 퍼널 분석, 행동 세그먼트, 전환 병목, 리텐션·갱신, 지점별 성과 진단 | Viral to Value, 공유오피스, 구독 서비스, 왓챠 |
+| **Product Prototyping** | 유저플로우 설계, AI 활용 HTML·CSS·JavaScript 프로토타입 제작, 화면 흐름 검토, 시연 | Viral to Value |
 | **Statistics & Experiment Design** | 비율 비교, 카이제곱·상관분석, 신뢰구간, 다중검정, A/B 테스트 설계 | 공유오피스, 구독 서비스, 지하철, 왓챠 |
 | **Machine Learning** | 분류 모델링, 트리 기반 모델 비교, 시계열 수요 예측, 임계값 조정, 변수 중요도 해석 | 공유오피스, Steam, 포트홀 |
 | **Spatial & Public Data Analysis** | 공간 좌표·도로 링크 매핑, 공공데이터 통합, 외부 환경 변수 결합 | 공유오피스, 지하철, 포트홀 |
-| **Text, NLP & Survey Analysis** | 웹 크롤링, 한국어 전처리, 명사 추출, 워드클라우드, 감성 분석, 설문 분석 | 보이스피싱, 왓챠, 공유오피스 리뷰 분석 |
+| **Text, NLP & Survey Analysis** | 웹 크롤링, 한국어 전처리, 명사 추출, 워드클라우드, 감성 분석, 설문 분석 및 의미 유사도·반복 분석 | Viral to Value, 보이스피싱, 왓챠, 공유오피스 리뷰 분석 |
 | **AI Ethics & Risk Analysis** | 이해관계자 분석, 프라이버시·공정성·투명성 평가, 윤리적 딜레마 및 개선안 도출 | ToxMod |
-| **Visualization & Communication** | Tableau 대시보드, 데이터 시각화, 분석 스토리라인, 보고서·논문·발표자료 작성 | 공유오피스, 구독 서비스, 지하철, 포트홀, 보이스피싱 |
-| **Project Leadership & Documentation** | 프로젝트·팀 운영, 역할 분담, 회의 진행, 전처리 기준 명세화, 코드 통합, 회의록·협업 기록, 발표·Q&A | 공유오피스, 구독 서비스, 서울시 지하철, 포트홀, 보이스피싱 |
+| **Visualization & Communication** | Tableau 대시보드, 데이터 시각화, 분석 스토리라인, 보고서·논문·발표자료 작성 | Viral to Value, 공유오피스, 구독 서비스, 지하철, 포트홀, 보이스피싱 |
+| **Project Leadership & Documentation** | 프로젝트·팀 운영, 역할 분담, 회의 진행, 전처리 기준 명세화, 코드 통합, 회의록·협업 기록, 발표·Q&A | Viral to Value, 공유오피스, 구독 서비스, 서울시 지하철, 포트홀, 보이스피싱 |
 
 ---
 
@@ -72,23 +75,86 @@
 
 | 카테고리 | 프로젝트 |
 |---|---|
-| 📊 **Product & User Behavior Analytics** | 공유오피스 무료체험 전환, 구독형 교육 서비스 전환·리텐션, 왓챠 소비층 확보 |
+| 📊 **Product & User Behavior Analytics** | Viral to Value, 공유오피스 무료체험 전환, 구독형 교육 서비스 전환·리텐션, 왓챠 소비층 확보 |
 | 🚇 **Public Safety & Urban Analytics** | 서울시 지하철 사고 원인 분석, 포트홀 발생 주요 요인 분석 |
 | 🤖 **Machine Learning & Predictive Modeling** | 포트홀 발생 요인 분석, Steam 인기 게임 예측, 공유오피스 방문 수요 예측 |
 | 🌐 **Spatial & External Data Integration** | 공유오피스 지점 분석, 서울시 지하철 사고 분석, 포트홀 발생 요인 분석 |
-| 📝 **Text, NLP & Survey Analysis** | 보이스피싱 패턴 분석, 왓챠 소비층 확보, 공유오피스 리뷰 분석 |
+| 📝 **Text, NLP & Survey Analysis** | Viral to Value, 보이스피싱 패턴 분석, 왓챠 소비층 확보, 공유오피스 리뷰 분석 |
 | 🛡️ **Risk, Ethics & Social Data Analysis** | ToxMod AI 윤리 영향평가, 보이스피싱 패턴 분석 |
-| 📈 **Dashboard & Data Storytelling** | 공유오피스 지점 성과 대시보드, 서울시 지하철 안전 대시보드, 프로젝트 발표자료 |
+| 📈 **Dashboard & Data Storytelling** | Viral to Value, 공유오피스 지점 성과 대시보드, 서울시 지하철 안전 대시보드, 프로젝트 발표자료 |
+| 🧩 **Product Design & Prototyping** | Viral to Value UI/UX 재구축 |
 
 ---
 
 # 🌟 Featured Projects
 
+<a id="project-viral-to-value"></a>
+## 1. Viral to Value — 학교 네트워크 소셜 앱의 데이터 기반 제품 재건축
+
+**프로젝트 타입:** 부트캠프 고급 팀 프로젝트   
+**기간:** 2026.08.31-2026.10.02  
+**역할:** 프로젝트 리더, 데이터 마트 구축·전처리, Content·Interaction 분석, 서비스 재구축 방향 및 분석 구성 기획, AI 활용 UI/UX 프로토타입 제작, 발표 및 Q&A  
+  - **프로젝트 리더**: 서비스 전체 재구축 방향과 7개 관점의 분석 구성을 제안하고, 팀원들의 분석 결과를 하나의 발표 흐름과 제품 개선안으로 연결
+
+**링크:** [Team Repository](https://github.com/codeit-team7/team7) · [프로토타입 체험](https://lucyjeehyeon.github.io/ping-demo/) · [발표자료 및 산출물](https://github.com/codeit-team7/team7/tree/main/deliverables)  
+**성과:** 최종 프로젝트 단체 투표 1위 달성
+
+> **핵심 결과:** 질문 완료율만으로 완료 이후 참여를 설명하기는 어려웠습니다. **질문 공급의 편중과 의미 반복, 완료 이후 행동**을 분석하고, 관측 결과를 바탕으로 서비스 재구축 방향과 체험형 프로토타입을 구체화했습니다.
+
+| 문제 | 접근 | 결과 |
+|---|---|---|
+| 질문 목록이 많으면 사용자가 접하는 질문도 다양한가? | 10개 학교의 문구별 공급 집중도, 의미 반복, 학교별 공통·고유 질문 분석 | 상위 10% 문구가 **질문조각의 53.0%** 차지, 사용자별 누적 질문조각 501개 이상 구간의 의미 반복률 **34.42%** |
+| 질문을 완료한 뒤에도 참여가 이어지는가? | Hackle 방문 로그에서 질문 시작·완료와 완료 이후 이벤트의 순서 분석 | 질문 시작 방문의 완료 전환 **73.75%**, 완료 방문에서 같은 방문 안에 질문 시작이 다시 관측된 비율 **2.12%** |
+| 여러 분석을 하나의 제품 개선 방향으로 연결할 수 있는가? | 7개 분석 관점을 첫 참여·질문 경험·반응과 대화·재방문의 4단계로 연결 | **198개 화면·상태의 인터랙티브 프로토타입**, 유저플로우와 공개 체험 링크 제작 |
+
+<details>
+<summary><b>🔍 분석 내용 자세히 보기</b></summary>
+
+### 데이터 및 분석
+
+- 서비스 원본 테이블과 Hackle 이벤트 로그를 연결하고, 사용자·학교·질문·방문별 분석 단위와 집계 기준을 구분
+- 데이터 마트 구축과 전처리를 담당했으며, 팀의 분석 범위 확장에 따라 초기 6개 마트에서 **23개 분석용 테이블을 활용하는 구조**로 확대
+- **10개 학교의 정규화 질문 문구 3,898개**를 대상으로 공급 집중도, 신규 문구 등장, 의미 반복, 학교별 공통·고유 질문 분석
+- 질문 완료 여부뿐 아니라 완료 이후 행동 전환과 첫 분류 가능 행동을 별도로 분석
+- 질문 시작 방문의 완료 전환 **149,038 / 202,072건**과 완료 방문의 재시작 전환 **3,162 / 149,038건**을 구분해 해석
+
+### 제안
+
+- 학교생활 맥락을 담은 로컬 질문과 사용자 제안 질문을 검토·시험 노출 과정을 거쳐 공급
+- 단순한 질문 수 확대보다 **의미 중복과 개인별 재노출 간격 관리**에 집중
+- 완료 화면에서 실제 도착한 결과·반응으로 연결하되 추가 참여를 강요하지 않는 선택 제공
+
+</details>
+
+<details>
+<summary><b>🙋‍♀️ 담당 역할 및 회고</b></summary>
+
+- 서비스 전체를 재구축하는 방향과 **Growth·Network·Content·Interaction·Value·Trust·Continuation의 7개 관점**을 제안하고, 팀원들의 분석 결과를 제품 개선 흐름으로 연결
+- **Content·Interaction 분석**을 담당하고, 분석 목적에 맞춘 데이터 마트 구축·전처리와 지표 기준 정리 수행
+- **ChatGPT·Codex**를 SQL 작성·오류 수정과 HTML·CSS·JavaScript 프로토타입 구현에 활용하며, 분석 요구사항과 화면 흐름을 정의하고 결과를 검토·수정
+- 학교 단계 개방, 로컬 질문, 건너뛰기 이유, 완료 후 결과 연결 등 개선안을 화면과 인터랙션으로 구체화
+- **프로토타입 시연과 청중 체험 링크 공유를 제안**하고, 발표 및 분석 기준·설계 가정에 대한 질의응답 참여
+- 분석에서 확인한 사실, 개선 가설, 실제 검증된 효과를 구분하면서 분석 결과를 구체적인 제품 설계로 연결하는 경험을 축적
+
+</details>
+
+<details>
+<summary><b>⚠️ 해석의 한계</b></summary>
+
+- 질문조각은 생성·배정 기록이며 실제 열람과 다름. 의미 반복이 이탈의 원인이라는 인과관계를 확인한 것은 아님
+- 2.12%는 같은 방문 안의 완료 후 재시작 이벤트 비율이며, 사용자 리텐션이나 서로 다른 Question Set ID를 확인한 지표는 아님
+- 분석 파트별 모집단과 관찰 기간이 다르므로 하나의 연속 퍼널로 해석하지 않음
+- 프로토타입은 시연용이며, 실제 서비스 적용에 따른 재참여율·유지율 개선 효과는 **검증 전**
+
+</details>
+
+---
+
 <a id="project-shared-office"></a>
-## 1. 공유오피스 무료체험 전환 체계 진단
+## 2. 공유오피스 무료체험 전환 체계 진단
 
 
-**프로젝트 타입:** 부트캠프 팀 프로젝트  
+**프로젝트 타입:** 부트캠프 중급 2 팀 프로젝트  
 **기간:** 2026.07  
 **역할:** 팀장, 외부 데이터 병합·전처리, 랜드마크 모델링, 다지점·지점별 분석, 마스터 테이블·코드 통합, Q&A  
 **링크:** [Repository](https://github.com/lucyjeehyeon/shared-office-trial-conversion-analysis)
@@ -148,10 +214,10 @@
 ---
 
 <a id="project-subscription"></a>
-## 2. 구독형 교육 서비스 전환·리텐션 분석
+## 3. 구독형 교육 서비스 전환·리텐션 분석
 
 
-**프로젝트 타입:** 부트캠프 팀 프로젝트  
+**프로젝트 타입:** 부트캠프 중급 1 팀 프로젝트  
 **기간:** 2026.05-06
 **역할:** 초기 학습 퍼널·활성화 기준·레슨 완료 임계점·콘텐츠 개선 후보·유저 세그먼트 분석, PPT 공동 제작 및 발표  
 **링크:** `Repository URL 추가 예정` <!-- TODO: 실제 레포 URL로 교체 -->  
@@ -210,10 +276,10 @@
 ---
 
 <a id="project-subway"></a>
-## 3. 서울시 지하철 사고 원인 분석 및 안전 개선 방안
+## 4. 서울시 지하철 사고 원인 분석 및 안전 개선 방안
 
 
-**프로젝트 타입:** 부트캠프 팀 프로젝트  
+**프로젝트 타입:** 부트캠프 초급 팀 프로젝트  
 **기간:** 2026.04  
 **역할:** 프로젝트 리더, 회의·역할 분담·의사결정, 승강설비 사고 분석, 공동 발표 및 Q&A 참여  
 **링크:** [Repository](https://github.com/lucyjeehyeon/seoul-subway-safety-analysis)
@@ -267,7 +333,7 @@
 ---
 
 <a id="project-toxmod"></a>
-## 4. ToxMod AI 윤리 영향평가
+## 5. ToxMod AI 윤리 영향평가
 
 
 **프로젝트 타입:** 교과 팀 프로젝트  
@@ -302,7 +368,7 @@
 ---
 
 <a id="project-steam"></a>
-## 5. Steam 게임 속성 기반 인기 게임 예측
+## 6. Steam 게임 속성 기반 인기 게임 예측
 
 
 **프로젝트 타입:** 교과 개인 프로젝트  
@@ -332,7 +398,7 @@
 ---
 
 <a id="project-pothole"></a>
-## 6. 트리 기반 머신러닝을 활용한 포트홀 발생 주요 요인 분석
+## 7. 트리 기반 머신러닝을 활용한 포트홀 발생 주요 요인 분석
 
 
 **프로젝트 타입:** 캡스톤·연구 팀 프로젝트  
@@ -375,7 +441,7 @@
 ---
 
 <a id="project-watcha"></a>
-## 7. OTT 플랫폼 왓챠의 소비층 확보 방안
+## 8. OTT 플랫폼 왓챠의 소비층 확보 방안
 
 
 **프로젝트 타입:** 교과 팀 프로젝트  
@@ -401,7 +467,7 @@
 ---
 
 <a id="project-voice-phishing"></a>
-## 8. 보이스피싱 패턴 분석
+## 9. 보이스피싱 패턴 분석
 
 
 **프로젝트 타입:** 캡스톤·연계 실습 팀 프로젝트  
@@ -452,9 +518,9 @@
 
 # 🗃 Repository Status
 
-현재 포트폴리오에는 **8개 프로젝트의 문제 정의, 분석 과정, 주요 결과와 역할**을 정리했습니다.
+현재 포트폴리오에는 **9개 프로젝트의 문제 정의, 분석 과정, 주요 결과와 역할**을 정리했습니다.
 
-- 공개 레포가 있는 프로젝트: 보이스피싱 패턴 분석
+- 공개 레포가 있는 프로젝트: Viral to Value, 보이스피싱 패턴 분석
 - 레포 정리 예정: 공유오피스 무료체험 전환, 구독형 교육 서비스 전환·리텐션, 서울시 지하철 사고 원인 분석, 포트홀 발생 주요 요인 분석
 - 나머지 프로젝트: 포트폴리오 요약과 산출물 중심으로 정리했습니다.
 - 프로젝트 데이터는 라이선스·보안·교육용 제공 조건에 따라 원본 공개가 제한될 수 있습니다.
