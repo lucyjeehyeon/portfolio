@@ -49,6 +49,7 @@
 | **ToxMod AI 윤리 영향평가** | 2025.09-12 | 음성 중재 AI의 프라이버시·공정성·투명성 평가 | AI Ethics, Risk Analysis, Impact Assessment, Policy Review | - |
 | **Steam 게임 속성 기반 인기 게임 예측** | 2025.03-06 | 게임 속성을 활용한 상위 다운로드 게임 분류 | Orange3, Decision Tree, Classification, Model Evaluation | - |
 | **포트홀 발생 주요 요인 분석** | 2024.09-2025.02 | 공간·기상·교통 데이터 통합 및 발생 요인 중요도 분석 | Python, Spatial Data, Feature Engineering, LightGBM | [Repository](https://github.com/lucyjeehyeon/pothole-risk-factor-analysis) |
+| **KidA — 챌린지·할 일 관리 Android 앱** | 2024.01-02 | 챌린지 탐색·참여, 캘린더 기반 할 일 관리, 로컬 데이터 저장 | Kotlin, Android, SQLite, XML UI | [Repository](https://github.com/lucyjeehyeon/kida-android-challenge-app) |
 | **OTT 플랫폼 왓챠 소비층 확보 방안** | 2023.03-06 | 자체 설문 기반 사용자 인식·이용 요인 및 마케팅 방향 | Survey Analysis, User Behavior, Statistical Analysis, Strategy | - |
 | **보이스피싱 패턴 분석** | 2022.09-12, 2023.09-12 | 사례 스크립트·유튜브 데이터 수집 및 텍스트 패턴 분석 | Crawling, Text Preprocessing, KoNLPy, WordCloud, Sentiment | [Repository](https://github.com/lucyjeehyeon/voicefishing_analysis) |
 
@@ -83,6 +84,7 @@
 | 🛡️ **Risk, Ethics & Social Data Analysis** | ToxMod AI 윤리 영향평가, 보이스피싱 패턴 분석 |
 | 📈 **Dashboard & Data Storytelling** | Viral to Value, 공유오피스 지점 성과 대시보드, 서울시 지하철 안전 대시보드, 프로젝트 발표자료 |
 | 🧩 **Product Design & Prototyping** | Viral to Value UI/UX 재구축 |
+| 📱 **Mobile Application Development** | KidA 챌린지·할 일 관리 Android 앱 |
 
 ---
 
@@ -441,8 +443,32 @@
 
 ---
 
+<a id="project-kida"></a>
+## 8. KidA — 챌린지·할 일 관리 Android 앱
+
+**프로젝트 타입:** Programming GURU2 Android 팀 프로젝트<br>
+**기간:** 2024.01-02 (저장소 커밋 기록 기준)<br>
+**관련 교육:** 2023학년도 겨울방학 SW사관학교 Programming GURU2 집중코딩과정 (2023.12.26-2024.02.02, 150시간)<br>
+**역할:** 챌린지 앱 아이디어 제안, 데이터베이스 관련 작업 및 앱 공동 구현 참여<br>
+**링크:** [Repository](https://github.com/lucyjeehyeon/kida-android-challenge-app) · [Original Team Repository](https://github.com/NKyeong/GURU2_Android_KidA)
+
+> **프로젝트 개요:** 챌린지 탐색·참여와 날짜별 할 일 관리를 결합한 Android 앱 팀 프로젝트입니다. Kotlin과 XML 기반 화면, SQLite 로컬 저장소를 이용해 계정·챌린지·할 일 데이터를 다뤘습니다.
+
+### 주요 구현
+
+- 회원가입·로그인 및 현재 사용자 정보 관리
+- 캘린더 날짜 선택과 날짜별 할 일 추가·조회·내용 및 완료 상태 수정
+- 카테고리별 챌린지 목록, 상세 안내 및 개인 도전과제 입력 화면
+- 홈·챌린지·랭킹·마이페이지를 연결하는 탭 기반 앱 구성
+
+### 구현 범위
+
+학습용 앱 개발 프로젝트로, 랭킹은 샘플 데이터를 사용하며 일부 개인 챌린지와 도장 상태의 저장 흐름은 추가 보완이 필요합니다.
+
+---
+
 <a id="project-watcha"></a>
-## 8. OTT 플랫폼 왓챠의 소비층 확보 방안
+## 9. OTT 플랫폼 왓챠의 소비층 확보 방안
 
 
 **프로젝트 타입:** 교과 팀 프로젝트  
@@ -468,7 +494,7 @@
 ---
 
 <a id="project-voice-phishing"></a>
-## 9. 보이스피싱 패턴 분석
+## 10. 보이스피싱 패턴 분석
 
 
 **프로젝트 타입:** 캡스톤·연계 실습 팀 프로젝트  
@@ -519,9 +545,9 @@
 
 # 🗃 Repository Status
 
-현재 포트폴리오에는 **9개 프로젝트의 문제 정의, 분석 과정, 주요 결과와 역할**을 정리했습니다.
+현재 포트폴리오에는 **10개 프로젝트의 문제 정의, 분석·구현 과정, 주요 결과와 역할**을 정리했습니다.
 
-- 공개 레포가 있는 프로젝트: Viral to Value, 공유오피스 무료체험 전환, 구독형 교육 서비스 전환·리텐션, 서울시 지하철 사고 원인 분석, 포트홀 발생 주요 요인 분석, 보이스피싱 패턴 분석
+- 공개 레포가 있는 프로젝트: Viral to Value, 공유오피스 무료체험 전환, 구독형 교육 서비스 전환·리텐션, 서울시 지하철 사고 원인 분석, 포트홀 발생 주요 요인 분석, KidA, 보이스피싱 패턴 분석
 - 나머지 프로젝트: 포트폴리오 요약과 산출물 중심으로 정리했습니다.
 - 프로젝트 데이터는 라이선스·보안·교육용 제공 조건에 따라 원본 공개가 제한될 수 있습니다.
 

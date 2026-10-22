@@ -48,6 +48,7 @@ My projects span public safety and urban data, product and user behavior, conver
 | **ToxMod AI Ethics Impact Assessment** | 2025.09-12 | Privacy, fairness, and transparency assessment of a voice moderation AI system | AI Ethics, Risk Analysis, Impact Assessment, Policy Review | - |
 | **Steam Game Popularity Prediction Based on Game Attributes** | 2025.03-06 | Classification of top-downloaded games using structured game attributes | Orange3, Decision Tree, Classification, Model Evaluation | - |
 | **Analysis of Key Factors Associated with Pothole Occurrence Using Tree-Based Machine Learning** | 2024.09-2025.02 | Integration of spatial, weather, and traffic data and analysis of feature importance | Python, Spatial Data, Feature Engineering, LightGBM | [Repository](https://github.com/lucyjeehyeon/pothole-risk-factor-analysis) |
+| **KidA — Android Challenge & To-Do App** | 2024.01-02 | Challenge discovery and participation, calendar-based to-do management, local data persistence | Kotlin, Android, SQLite, XML UI | [Repository](https://github.com/lucyjeehyeon/kida-android-challenge-app) |
 | **Customer Acquisition Strategy for OTT Platform WATCHA** | 2023.03-06 | Survey-based analysis of user perceptions, usage factors, and marketing direction | Survey Analysis, User Behavior, Statistical Analysis, Strategy | - |
 | **Voice Phishing Pattern Analysis** | 2022.09-12, 2023.09-12 | Collection of case scripts and YouTube data, followed by text pattern analysis | Crawling, Text Preprocessing, KoNLPy, WordCloud, Sentiment | [Repository](https://github.com/lucyjeehyeon/voicefishing_analysis) |
 
@@ -82,6 +83,7 @@ My projects span public safety and urban data, product and user behavior, conver
 | 🛡️ **Risk, Ethics & Social Data Analysis** | ToxMod AI Ethics Impact Assessment, Voice Phishing Pattern Analysis |
 | 📈 **Dashboard & Data Storytelling** | Viral to Value, Shared Office Branch Performance Dashboard, Seoul Subway Safety Dashboard, Project Presentation Materials |
 | 🧩 **Product Design & Prototyping** | Viral to Value UI/UX Redesign |
+| 📱 **Mobile Application Development** | KidA Android Challenge & To-Do App |
 
 ---
 
@@ -434,8 +436,32 @@ Because the analysis included many findings, I learned that communication become
 
 ---
 
+<a id="project-kida"></a>
+## 8. KidA — Android Challenge & To-Do App
+
+**Project Type:** Programming GURU2 Android Team Project<br>
+**Period:** 2024.01-02 (based on repository commit records)<br>
+**Related Training:** Winter Programming GURU2 intensive coding course, 2023.12.26-2024.02.02, 150 hours<br>
+**Role:** Proposed the challenge-app idea and contributed to database-related work and joint app implementation<br>
+**Links:** [Repository](https://github.com/lucyjeehyeon/kida-android-challenge-app) · [Original Team Repository](https://github.com/NKyeong/GURU2_Android_KidA)
+
+> **Overview:** An Android team project combining challenge discovery and participation with date-based to-do management. The app uses Kotlin, XML layouts, and local SQLite databases for account, challenge, and to-do data.
+
+### Implemented Features
+
+- Local account registration, login, and current-user state
+- Calendar-based to-do creation, retrieval, text editing, and completion-state updates
+- Challenge categories, detail pages, and personal-task input screens
+- Tab-based navigation connecting home, challenges, ranking, and my-page screens
+
+### Implementation Scope
+
+This is an educational app-development project: ranking uses sample data, and some personal-challenge and stamp-state persistence flows require further integration.
+
+---
+
 <a id="project-watcha"></a>
-## 8. Customer Acquisition Strategy for OTT Platform WATCHA
+## 9. Customer Acquisition Strategy for OTT Platform WATCHA
 
 **Project Type:** University Course Team Project  
 **Period:** 2023.03-06  
@@ -460,7 +486,7 @@ Because the analysis included many findings, I learned that communication become
 ---
 
 <a id="project-voice-phishing"></a>
-## 9. Voice Phishing Pattern Analysis
+## 10. Voice Phishing Pattern Analysis
 
 **Project Type:** Capstone and Follow-up Practice Team Project  
 **Period:** 2022.09-12, 2023.09-12  
@@ -510,9 +536,9 @@ This was the first project in which I experienced the importance of transforming
 
 # 🗃 Repository Status
 
-This portfolio currently documents the **problem definition, analysis process, key findings, and roles for nine projects**.
+This portfolio currently documents the **problem definitions, analysis and implementation processes, key results, and roles across ten projects**.
 
-- Projects with public repositories: Viral to Value, Shared Office Free-Trial Conversion, Subscription-Based Education Service Conversion & Retention, Seoul Subway Accident Cause Analysis, Pothole Occurrence Factor Analysis, and Voice Phishing Pattern Analysis
+- Projects with public repositories: Viral to Value, Shared Office Free-Trial Conversion, Subscription-Based Education Service Conversion & Retention, Seoul Subway Accident Cause Analysis, Pothole Occurrence Factor Analysis, KidA, and Voice Phishing Pattern Analysis
 - Remaining projects are documented through portfolio summaries and key deliverables
 - Original project datasets may not be publicly available due to licensing, security, or educational-use restrictions
 
