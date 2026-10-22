@@ -43,7 +43,7 @@ My projects span public safety and urban data, product and user behavior, conver
 |---|---|---|---|---|
 | **Viral to Value — Social App Analysis & UI/UX Redesign** | 2026.08-10 | Question supply and semantic repetition, post-completion behavior, service redesign | SQL, Python, Semantic Analysis, Funnel Analysis, HTML/CSS/JavaScript | [Repository](https://github.com/codeit-team7/team7) · [Demo](https://lucyjeehyeon.github.io/ping-demo/) |
 | **Shared Office Free-Trial Conversion Funnel Diagnosis** | 2026.07 | Free-trial funnel, repeat-visit conversion signals, branch-level bottleneck diagnosis | Python, Funnel Analysis, Statistical Testing, ML, Tableau | [Repository](https://github.com/lucyjeehyeon/shared-office-trial-conversion-analysis) |
-| **Subscription-Based Education Service Conversion & Retention Analysis** | 2026.05-06 | Early learning funnel, activation threshold, first-payment conversion, user segmentation | Python, User Segmentation, Funnel Analysis, A/B Test Design | `Repository URL to be added` |
+| **Subscription-Based Education Service Conversion & Retention Analysis** | 2026.05-06 | Early learning funnel, activation threshold, first-payment conversion, user segmentation | Python, User Segmentation, Funnel Analysis, A/B Test Design | [Repository](https://github.com/lucyjeehyeon/subscription-conversion-retention-analysis) |
 | **Seoul Subway Accident Cause Analysis & Safety Improvement** | 2026.04 | Temporal, spatial, and structural risk factors by accident type; escalator and elevator accident analysis | Python, EDA, Public Data, Correlation Analysis, Tableau | [Repository](https://github.com/lucyjeehyeon/seoul-subway-safety-analysis) |
 | **ToxMod AI Ethics Impact Assessment** | 2025.09-12 | Privacy, fairness, and transparency assessment of a voice moderation AI system | AI Ethics, Risk Analysis, Impact Assessment, Policy Review | - |
 | **Steam Game Popularity Prediction Based on Game Attributes** | 2025.03-06 | Classification of top-downloaded games using structured game attributes | Orange3, Decision Tree, Classification, Model Evaluation | - |
@@ -216,30 +216,30 @@ My projects span public safety and urban data, product and user behavior, conver
 **Project Type:** Bootcamp Team Project  
 **Period:** 2026.05-06  
 **Role:** Early learning funnel analysis, activation threshold analysis, lesson-completion threshold analysis, content improvement prioritization, user segmentation, co-creation of presentation deck, and presentation  
-**Link:** `Repository URL to be added` <!-- TODO: Replace with actual repository URL -->  
+**Links:** [Repository](https://github.com/lucyjeehyeon/subscription-conversion-retention-analysis) · [Presentation](https://github.com/lucyjeehyeon/subscription-conversion-retention-analysis/blob/main/reports/presentation.pdf)  
 
-> **Key Finding:** Early learning progress was a stronger signal for first-payment conversion, while the **number of active learning days after payment** was more closely associated with subscription renewal.
+> **Key Finding:** First-payment conversion differed by early learning behavior, and the **number of active learning days after payment** was associated with subscription renewal. These observations informed onboarding and learning-routine experiments.
 
 | Problem | Approach | Result |
 |---|---|---|
-| How could first-payment conversion be improved after the removal of the free trial? | Comparison of behavior during the 7 days before payment with first payment within 30 days | Selected **completion of 7 lessons** as the first operational activation target |
+| How could first-payment conversion be improved after the removal of the free trial? | Comparison of pre-payment lesson-completion events within the first 7 days after sign-up with first payment within 30 days | Selected **7 or more lesson-completion events** as an exploratory activation threshold |
 | Did all non-learning users have the same conversion potential? | Defined four segments using content experience and completed lessons | A large difference was observed between inactive users at 1.08% and explorers at 10.98% |
-| Which post-payment behavior was associated with renewal? | Low-, medium-, and high-activity segments based on post-payment active learning days | The 60-day renewal rate increased from **48.0% → 56.9% → 63.2%** |
+| Which post-payment behavior was associated with renewal? | Post-removal users observable for 60 days, grouped by post-payment active learning days (n = 3,323) | Renewal rates were **48.62% → 59.72% → 64.10%** across 0–4, 5–13, and 14+ active-day groups |
 
 <details>
 <summary><b>🔍 View Analysis Details</b></summary>
 
 - Compared sign-ups, first-payment conversion, payment amount, discounts, and early behavior before and after the removal of the free trial
-- Analyzed the number of lessons completed within 7 days before payment and first payment within 30 days
+- Analyzed pre-payment lesson-completion events within the first 7 days after sign-up and first payment within 30 days
 - Defined inactive, explorer, weak learner, and strong learner segments using content experience and lesson completion
 - Created post-payment active-day segments to capture learning continuity rather than only total learning volume
 - Compared user share and expected revenue contribution by payment plan
-- Designed an onboarding A/B test and expected-revenue simulation to move inactive users into the explorer segment
+- Proposed an onboarding A/B test and scenario-based revenue simulation; neither the experiment nor a realized revenue uplift was demonstrated
 
 ### Action Directions
 
 - Inactive users: encourage the first content experience with beginner recommendations and a one-click start CTA
-- Weak learners: encourage completion of 7 lessons with next-action guidance and motivational messaging
+- Weak learners: test next-action guidance and motivational messaging toward 7 lesson-completion events
 - Payers: expand active learning days through experience points, rewards, and repeat-visit mechanisms
 
 </details>
@@ -250,12 +250,12 @@ My projects span public safety and urban data, product and user behavior, conver
 - Reviewed user, content, and event-log definitions and created **7-day post-sign-up preprocessing rules and analytical tables**
 - Diagnosed the **lesson page entry → lesson completion funnel** for new users after the removal of the free trial
 - Compared whether first-lesson completion was associated with subsequent learning, question-clicking, and payment behavior
-- Evaluated payment rate and user scale by lesson-completion count and identified **completion of 7 lessons** as a candidate high-activation threshold
+- Evaluated payment rate and user scale by lesson-completion count and identified **7 lesson-completion events** as a candidate high-activation threshold
 - Segmented users who entered a lesson but did not complete it and proposed improvement actions by behavior level
 - Explored **beginner-content improvement priorities** by considering both starting-user scale and incompletion volume
 - Analyzed behavior differences across difficulty transition paths, such as beginner → advanced
 - Analyzed the relationship between daily discount rate and first-payment conversion
-- Designed **user segments**—inactive, explorer, weak learner, and core learner—using content experience and lesson completion count
+- Designed **user segments**—inactive, explorer, weak learner, and strong learner—using content experience and lesson completion count
 - Co-created the presentation deck and delivered the final presentation with one other team member
 
 </details>
@@ -265,7 +265,8 @@ My projects span public safety and urban data, product and user behavior, conver
 
 - Without advertising-channel and acquisition-quality data, it was difficult to isolate changes in user composition before and after the removal of the free trial
 - Some event-log definitions appeared inconsistent, such as course starts being recorded without a prior view event
-- Without actual plan policies and billing-cycle definitions, renewal structures by plan required further validation
+- Content-experience segments combine pre-payment content IDs with views/starts across the full first 7 days, so they may include post-payment behavior
+- The supplied active-day field reaches 32 days; its exact time boundary and plan-specific renewal definitions require the original mart-building SQL and billing policies
 - Behavioral relationships with payment were not causal, so the impact of proposed actions should be tested through A/B experiments
 
 </details>
@@ -511,8 +512,7 @@ This was the first project in which I experienced the importance of transforming
 
 This portfolio currently documents the **problem definition, analysis process, key findings, and roles for nine projects**.
 
-- Projects with public repositories: Viral to Value, Voice Phishing Pattern Analysis
-- Repositories to be organized: Shared Office Free-Trial Conversion, Subscription-Based Education Service Conversion & Retention, Seoul Subway Accident Cause Analysis, and Pothole Occurrence Factor Analysis
+- Projects with public repositories: Viral to Value, Shared Office Free-Trial Conversion, Subscription-Based Education Service Conversion & Retention, Seoul Subway Accident Cause Analysis, Pothole Occurrence Factor Analysis, and Voice Phishing Pattern Analysis
 - Remaining projects are documented through portfolio summaries and key deliverables
 - Original project datasets may not be publicly available due to licensing, security, or educational-use restrictions
 
